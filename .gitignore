@@ -17,3 +17,12 @@ akai_data/raw/
 akai_adapter/
 *.bin
 *.safetensors
+
+# Dilekçe havuzu — binary/image dosyaları (anonimleştirilemez)
+örnek dilekçe havuzu/*.pdf
+örnek dilekçe havuzu/*.doc
+örnek dilekçe havuzu/*.udf
+örnek dilekçe havuzu/*.jpeg
+örnek dilekçe havuzu/*.xlsx
+örnek dilekçe havuzu/*.jpg
+turkish_law_dataset.csv

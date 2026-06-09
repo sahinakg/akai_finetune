@@ -1,0 +1,2701 @@
+[
+  {
+    "dataset": [
+      {
+        "question": "Danıştay'la hangi mahkemelerin görevine giren uyuşmazlıkların çözümü bu kanuna tabidir?",
+        "answer": "Danıştay, bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemelerinin görevine giren uyuşmazlıkların çözümü bu kanuna tabidir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 1",
+        "source_article": "<Madde 1 – 1. Danıştay, bölge idare mahkemeleri, i"
+      },
+      {
+        "question": "Yazılı yargılama usulünün uygulanacağı mahkemeler hangileridir?",
+        "answer": "Yazılı yargılama usulü Danıştay, bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemelerinde uygulanır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 1",
+        "source_article": "<Madde 1 – 1. Danıştay, bölge idare mahkemeleri, i"
+      },
+      {
+        "question": "Bu kanuna göre uyuşmazlık çözümünde izlenen usul nedir?",
+        "answer": "Uyuşmazlık çözümünde bu kanunda gösterilen usullere tabidir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 1",
+        "source_article": "<Madde 1 – 1. Danıştay, bölge idare mahkemeleri, i"
+      },
+      {
+        "question": "Yazılı yargılama usulü hangi tür inceleme ile gerçekleştirilir?",
+        "answer": "Yazılı yargılama usulü inceleme evrak üzerinde yapılır.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 1",
+        "source_article": "<Madde 1 – 1. Danıştay, bölge idare mahkemeleri, i"
+      },
+      {
+        "question": "Danıştay ve diğer mahkemeler arasındaki yargılama usulünün temel özellikleri nelerdir?",
+        "answer": "Danıştay, bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemeleri yazılı yargılama usulü uygular ve inceleme evrak üzerinde yapılır.",
+        "question_type": "Summarizing",
+        "source": "İYUK Madde 1",
+        "source_article": "<Madde 1 – 1. Danıştay, bölge idare mahkemeleri, i"
+      },
+      {
+        "question": "İdari dava türleri nelerdir?",
+        "answer": "İdari dava türleri iptal davaları, tam yargı davaları ve idari sözleşmelerden doğan uyuşmazlık davalarıdır.",
+        "question_type": "Listing",
+        "source": "İYUK Madde 2",
+        "source_article": "<Madde 2 – 1. (Değişik: 10/6/1994-4001/1 md.) İdar"
+      },
+      {
+        "question": "İdari mahkemelerin yetkileri nelerdir?",
+        "answer": "İdari mahkemelerin yetkisi, idari eylem ve işlemlerin hukuka uygunluğunu denetimle sınırlıdır.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 2",
+        "source_article": "<Madde 2 – 1. (Değişik: 10/6/1994-4001/1 md.) İdar"
+      },
+      {
+        "question": "İptal davalarının açılma nedenleri nelerdir?",
+        "answer": "İptal davaları, idari işlemlerin yetki, şekil, sebep, konu ve maksat yönlerinden biri ile hukuka aykırı olmasından dolayı açılmaktadır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 2",
+        "source_article": "<Madde 2 – 1. (Değişik: 10/6/1994-4001/1 md.) İdar"
+      },
+      {
+        "question": "İdari mahkemeler neden yerindelik denetimi yapamaz?",
+        "answer": "İdari mahkemeler yerindelik denetimi yapamaz çünkü bu, yürütme görevinin kanunlar ve Cumhurbaşkanlığı Kararnameleri uyarınca yerine getirilmesini kısıtlayabilir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 2",
+        "source_article": "<Madde 2 – 1. (Değişik: 10/6/1994-4001/1 md.) İdar"
+      },
+      {
+        "question": "Eğer bir kişi kamu hizmetlerinden doğan bir uyuşmazlıkta dava açmak isterse, hangi tür dava açmalıdır?",
+        "answer": "Kamu hizmetlerinden doğan uyuşmazlıklar için tam yargı davası açması gerekmektedir.",
+        "question_type": "Hypothetical",
+        "source": "İYUK Madde 2",
+        "source_article": "<Madde 2 – 1. (Değişik: 10/6/1994-4001/1 md.) İdar"
+      },
+      {
+        "question": "İdari davalar nasıl açılır?",
+        "answer": "İdari davalar, Danıştay, idare mahkemesi ve vergi mahkemesi başkanlıklarına hitaben yazılmış imzalı dilekçelerle açılır.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 3",
+        "source_article": "<Madde 3 – 1. (Değişik: 10/6/1994-4001/2 md.) İdar"
+      },
+      {
+        "question": "Dilekçelerde hangi bilgilerin yer alması gerekmektedir?",
+        "answer": "Dilekçelerde tarafların kimlik bilgileri, davanın konu ve sebepleri, idari işlemin yazılı bildirim tarihi, uyuşmazlık konusu miktar ve vergi davalarında verginin türü ile ilgili bilgiler yer almalıdır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 3",
+        "source_article": "<Madde 3 – 1. (Değişik: 10/6/1994-4001/2 md.) İdar"
+      },
+      {
+        "question": "Cumhurbaşkanı terimi, İYUK'ta hangi kanuna dayanarak kullanılır?",
+        "answer": "Cumhurbaşkanı terimi, 11/1/1983 tarih ve 2779 sayılı Kanunun 1. maddesi gereğince kullanılır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 3",
+        "source_article": "<Madde 3 – 1. (Değişik: 10/6/1994-4001/2 md.) İdar"
+      },
+      {
+        "question": "Dilekçelere eklenen belgelerin durumu nedir?",
+        "answer": "Dava konusu kararın ve belgelerin asılları veya örnekleri dava dilekçesine eklenir ve eklenen evrak sayısı karşı taraf sayısından bir fazla olmalıdır.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 3",
+        "source_article": "<Madde 3 – 1. (Değişik: 10/6/1994-4001/2 md.) İdar"
+      },
+      {
+        "question": "İdari dava dilekçelerinde hangi mali yükümlülere ilişkin bilgiler verilmelidir?",
+        "answer": "Dilekçelerde vergi, resim, harç gibi mali yükümlülere ve bunların zam ve cezalarına ilişkin davalarda uyuşmazlık konusu miktar belirtilmelidir.",
+        "question_type": "Listing",
+        "source": "İYUK Madde 3",
+        "source_article": "<Madde 3 – 1. (Değişik: 10/6/1994-4001/2 md.) İdar"
+      },
+      {
+        "question": "Dilekçeler ve savunmalar nerelere sunulabilir?",
+        "answer": "Dilekçeler ve savunmalar, Danıştay veya ait olduğu mahkeme başkanlıklarına, idare ve vergi mahkemesi başkanlıklarına ya da Türk konsolosluklarına sunulabilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 4",
+        "source_article": "<Madde 4 – Dilekçeler ve savunmalar ile davalara i"
+      },
+      {
+        "question": "Dilekçelerin sunulabileceği yerlerde hangi unsurlar dikkate alınmalıdır?",
+        "answer": "Dilekçelerin sunulacağı yerlerde, mahkeme başkanlıkları ve idare veya vergi mahkemesi varlığı dikkate alınmalıdır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 4",
+        "source_article": "<Madde 4 – Dilekçeler ve savunmalar ile davalara i"
+      },
+      {
+        "question": "Dilekçelerin gönderileceği mahkemelerin yetkili olma durumu nedir?",
+        "answer": "Dilekçeler, ilgili mahkemelerin yetkili olup olmadığını belirlemek için mahkemelerin varlığına ve bulundukları konuma göre değerlendirilmektedir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 4",
+        "source_article": "<Madde 4 – Dilekçeler ve savunmalar ile davalara i"
+      },
+      {
+        "question": "Dilekçelerin sunulmasında hangi durumlar etkili olabilir?",
+        "answer": "Dilekçelerin sunulmasında, mahkemenin konumu, mahkeme türü ve ilgili idare veya vergi mahkemesinin varlığı etkili olabilir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 4",
+        "source_article": "<Madde 4 – Dilekçeler ve savunmalar ile davalara i"
+      },
+      {
+        "question": "Dilekçelerin sunulması için hangi prosedürler izlenmelidir?",
+        "answer": "Dilekçelerin sunulması, ilgili mahkeme başkanlıklarına veya Türk konsolosluklarına doğru bir şekilde iletilerek gerçekleştirilmelidir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 4",
+        "source_article": "<Madde 4 – Dilekçeler ve savunmalar ile davalara i"
+      },
+      {
+        "question": "İdari işlemlere karşı dava açma şartları nelerdir?",
+        "answer": "Her idari işlem aleyhine ayrı ayrı dava açılabilir. Ancak, işlemler arasında maddi veya hukuki bağ varsa, bir dilekçe ile de dava açılabilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 5",
+        "source_article": "<Madde 5 – (Değişik: 10/6/1994-4001/3 md.) 1. Her "
+      },
+      {
+        "question": "Müşterek dilekçe ile dava açmak için hangi şartlar gereklidir?",
+        "answer": "Dava açacak kişilerin hak veya menfaatlerinde iştirak bulunmalı ve davaya neden olan maddi olay veya hukuki sebepler aynı olmalıdır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 5",
+        "source_article": "<Madde 5 – (Değişik: 10/6/1994-4001/3 md.) 1. Her "
+      },
+      {
+        "question": "Birden fazla idari işleme karşı nasıl dava açılır?",
+        "answer": "Birden fazla idari işleme karşı, aralarında maddi veya hukuki bağı olan işlemler için bir dilekçe ile dava açılabilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 5",
+        "source_article": "<Madde 5 – (Değişik: 10/6/1994-4001/3 md.) 1. Her "
+      },
+      {
+        "question": "Kişilerin aynı dava için neden ortak dilekçe ile başvurması gerekir?",
+        "answer": "Kişiler, hak veya menfaatlerinde iştirak bulunması ve davaya yol açan maddi olay veya hukuki sebeplerin aynı olması durumunda ortak dilekçe ile başvurabilirler.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 5",
+        "source_article": "<Madde 5 – (Değişik: 10/6/1994-4001/3 md.) 1. Her "
+      },
+      {
+        "question": "İdari işlemlere karşı dava açılmasının önemi nedir?",
+        "answer": "İdari işlemlere karşı dava açmak, kişilerin hukuki haklarını korumasını sağlar ve idarenin keyfi uygulamalarına karşı bir denge oluşturur.",
+        "question_type": "Reflective",
+        "source": "İYUK Madde 5",
+        "source_article": "<Madde 5 – (Değişik: 10/6/1994-4001/3 md.) 1. Her "
+      },
+      {
+        "question": "Danıştay'a verilen dilekçelerin kaydı nasıl yapılır?",
+        "answer": "Dilekçelerin harç ve posta ücretleri alındıktan sonra deftere derhal kayıtları yapılır ve kayıt tarih ve sayısı dilekçenin üzerine yazılır.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 6",
+        "source_article": "<Madde 6 – 1. Danıştay, idare mahkemesi ve vergi m"
+      },
+      {
+        "question": "Dilekçede eksik harç veya posta ücreti bulunursa ne yapılır?",
+        "answer": "Eksik harç veya posta ücreti ile dava açılmışsa, otuz gün içinde eksikliklerin tamamlanması gerektiği tebliğ edilir, aksi takdirde dava açılmamış sayılır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 6",
+        "source_article": "<Madde 6 – 1. Danıştay, idare mahkemesi ve vergi m"
+      },
+      {
+        "question": "Dava açıldıktan sonra posta ücretinin azalmış olması durumunda prosedür nedir?",
+        "answer": "Posta ücretinde azalma olması halinde, otuz gün içinde tamamlanması gerektiği tebliğ edilir, aksi takdirde dosya işlemden kaldırılır.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 6",
+        "source_article": "<Madde 6 – 1. Danıştay, idare mahkemesi ve vergi m"
+      },
+      {
+        "question": "Dilekçelerin en geç ne zaman Danıştay'a gönderilmesi gerekir?",
+        "answer": "Dilekçeler, en geç üç gün içinde Danıştay veya ait olduğu mahkeme başkanlığına taahhütlü olarak gönderilmelidir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 6",
+        "source_article": "<Madde 6 – 1. Danıştay, idare mahkemesi ve vergi m"
+      },
+      {
+        "question": "Davacının harç veya posta ücretini süresinde tamamlama yükümlülüğünün amacı nedir?",
+        "answer": "Davacının harç veya posta ücretini süresinde tamamlaması, davanın açılmamış sayılmaması ve hukuki sürecin devam edebilmesi için gereklidir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 6",
+        "source_article": "<Madde 6 – 1. Danıştay, idare mahkemesi ve vergi m"
+      },
+      {
+        "question": "Danıştayda ve idare mahkemelerinde dava açma süresi nedir?",
+        "answer": "Danıştayda ve idare mahkemelerinde dava açma süresi altmış gündür.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 7",
+        "source_article": "<Madde 7 – 1. Dava açma süresi, özel kanunlarında "
+      },
+      {
+        "question": "Dava açma sürelerinin hesaplanmasında hangi durumlar göz önünde bulundurulmalıdır?",
+        "answer": "Dava açma süreleri, yazılı bildirimin yapıldığı tarihten veya tebliğ işlemlerinden başlanarak hesaplanmalıdır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 7",
+        "source_article": "<Madde 7 – 1. Dava açma süresi, özel kanunlarında "
+      },
+      {
+        "question": "İlan yoluyla bildirim yapılan hallerde dava süresi nasıl hesaplanır?",
+        "answer": "İlan yoluyla bildirim yapılan hallerde dava süresi, son ilan tarihini izleyen günden itibaren onbeş gün sonra işlemeye başlar.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 7",
+        "source_article": "<Madde 7 – 1. Dava açma süresi, özel kanunlarında "
+      },
+      {
+        "question": "Eğer bir düzenleyici işlem iptal edilmemişse, bu durum iptal edilmemiş işlemlere nasıl etki eder?",
+        "answer": "Düzenleyici işlemin iptal edilmemiş olması, bu düzenlemeye dayalı işlemin iptaline engel olmaz.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 7",
+        "source_article": "<Madde 7 – 1. Dava açma süresi, özel kanunlarında "
+      },
+      {
+        "question": "İdari uyuşmazlıklarda dava süresinin başlama tarihi hangi koşullara bağlıdır?",
+        "answer": "İdari uyuşmazlıklarda dava süresi, yazılı bildirimin yapıldığı günden itibaren başlayacaktır.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 7",
+        "source_article": "<Madde 7 – 1. Dava açma süresi, özel kanunlarında "
+      },
+      {
+        "question": "İYUK Madde 8'de sürelerin başlangıç tarihi nasıl belirlenir?",
+        "answer": "Süreler, tebliğ, yayın veya ilan tarihini izleyen günden itibaren işlemeye başlar.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 8",
+        "source_article": "<Madde 8 – 1. Süreler, tebliğ, yayın veya ilan tar"
+      },
+      {
+        "question": "İYUK Madde 8'de belirtilen sürelerin tatil günleri üzerindeki etkisi nedir?",
+        "answer": "Tatil günleri sürelere dahildir ve sürenin son günü tatil gününe rastlarsa, süre tatil gününü izleyen çalışma gününün bitimine kadar uzar.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 8",
+        "source_article": "<Madde 8 – 1. Süreler, tebliğ, yayın veya ilan tar"
+      },
+      {
+        "question": "İYUK Madde 8'de ara verme zamanının sürelere etkisi nedir?",
+        "answer": "Sürelere ara verme zamanı rastlarsa, bu süreler, ara vermenin sona erdiği günü izleyen tarihten itibaren yedi gün uzamış sayılır.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 8",
+        "source_article": "<Madde 8 – 1. Süreler, tebliğ, yayın veya ilan tar"
+      },
+      {
+        "question": "İYUK Madde 8'e göre bir sürenin nasıl uzatıldığını açıklayın.",
+        "answer": "Eğer sürenin son günü tatil gününe rastlarsa, süre tatil gününü izleyen çalışma gününün bitimine kadar uzatılır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 8",
+        "source_article": "<Madde 8 – 1. Süreler, tebliğ, yayın veya ilan tar"
+      },
+      {
+        "question": "İYUK Madde 8'in genel anlamda hukuki süreçler üzerindeki etkisi nedir?",
+        "answer": "İYUK Madde 8, sürelerin hesaplanması ve uzatılması ile ilgili kurallar getirerek hukuki süreçlerin düzenli işlemesine katkı sağlamaktadır.",
+        "question_type": "Reflective",
+        "source": "İYUK Madde 8",
+        "source_article": "<Madde 8 – 1. Süreler, tebliğ, yayın veya ilan tar"
+      },
+      {
+        "question": "Madde 9'a göre hangi mahkemelerde açılan davaların görev noktasından reddedilmesi durumunda, otuz gün içinde hangi mahkemede dava açılabilir?",
+        "answer": "Danıştay, idare ve vergi mahkemeleri görev noktasından reddedilen davaların ardından, görevli mahkemede otuz gün içinde dava açılabilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 9",
+        "source_article": "<Madde 9 – 1. (Değişik: 5/4/1990-3622/2 md.) Çözüm"
+      },
+      {
+        "question": "Görevsizlik kararı kesinleştikten sonra otuz günlük süre geçirildiğinde, hangi durumlarda idari dava açılabilir?",
+        "answer": "Görevsizlik kararının kesinleşmesinden sonra otuz günlük süre geçirilmiş olsa dahi, idari dava açılması için öngörülen süre henüz dolmamış ise bu süre içinde idari dava açılabilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 9",
+        "source_article": "<Madde 9 – 1. (Değişik: 5/4/1990-3622/2 md.) Çözüm"
+      },
+      {
+        "question": "Danıştay, idare ve vergi mahkemelerine başvurma tarihi nasıl belirlenir?",
+        "answer": "Görevsiz yargı merciine başvurma tarihi, Danıştay, idare ve vergi mahkemelerine başvurma tarihi olarak kabul edilir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 9",
+        "source_article": "<Madde 9 – 1. (Değişik: 5/4/1990-3622/2 md.) Çözüm"
+      },
+      {
+        "question": "Eğer bir dava adli mahkemede reddedilirse, bunun sonucunda hangi adımları izlemelidir?",
+        "answer": "Dava, adli mahkemenin görev noktasından reddi sonrası, Danıştay, idare ve vergi mahkemelerinde otuz gün içinde yeniden açılabilir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 9",
+        "source_article": "<Madde 9 – 1. (Değişik: 5/4/1990-3622/2 md.) Çözüm"
+      },
+      {
+        "question": "Madde 9'da belirtilen süreler hakkında bir özet yapınız.",
+        "answer": "Madde 9, görevsizlik durumunda otuz gün içinde görevli mahkemede dava açma süresi ve görevsizlik kararının kesinleşmesiyle ilgili detayları içerir.",
+        "question_type": "Summarizing",
+        "source": "İYUK Madde 9",
+        "source_article": "<Madde 9 – 1. (Değişik: 5/4/1990-3622/2 md.) Çözüm"
+      },
+      {
+        "question": "İlgililerin idari davaya konu olabilecek bir işlem için ne yapmaları gerekiyor?",
+        "answer": "İlgililer, haklarında idari davaya konu olabilecek bir işlem veya eylemin yapılması için idari makamlara başvurabilirler.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 10",
+        "source_article": "<Madde 10 – 1. İlgililer, haklarında idari davaya "
+      },
+      {
+        "question": "Otuz gün içinde cevap verilmediğinde ne olur?",
+        "answer": "Otuz gün içinde bir cevap verilmezse, istek reddedilmiş sayılır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 10",
+        "source_article": "<Madde 10 – 1. İlgililer, haklarında idari davaya "
+      },
+      {
+        "question": "İlgililer hangi mahkemelere dava açabilirler?",
+        "answer": "İlgililer, konusuna göre Danıştay'a, idare ve vergi mahkemelerine dava açabilirler.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 10",
+        "source_article": "<Madde 10 – 1. İlgililer, haklarında idari davaya "
+      },
+      {
+        "question": "Cevap kesin değilse ne yapılmalıdır?",
+        "answer": "İlgili, kesin olmayan cevabı isteminin reddi sayarak dava açabileceği gibi, kesin cevabı da bekleyebilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 10",
+        "source_article": "<Madde 10 – 1. İlgililer, haklarında idari davaya "
+      },
+      {
+        "question": "Dava açma süresi hangi durumlarda işlemez?",
+        "answer": "Dava açma süresi, kesin cevabın beklenmesi halinde işlemez; ancak bu bekleme süresi başvuru tarihinden itibaren dört ayı geçemez.",
+        "question_type": "Analytical",
+        "source": "İYUK Madde 10",
+        "source_article": "<Madde 10 – 1. İlgililer, haklarında idari davaya "
+      },
+      {
+        "question": "İlgililer tarafından idari dava açmadan önce hangi işlemler yapılabilir?",
+        "answer": "İdari işlemin kaldırılması, geri alınması, değiştirilmesi veya yeni bir işlem yapılması üst makamdan talep edilebilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 11",
+        "source_article": "<Madde 11 – 1. İlgililer tarafından idari dava açı"
+      },
+      {
+        "question": "İdari dava açma süresi neden durur?",
+        "answer": "Başvurma işlemi yapıldığında, idari dava açma süresi durur.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 11",
+        "source_article": "<Madde 11 – 1. İlgililer tarafından idari dava açı"
+      },
+      {
+        "question": "Madde 11 ile hangi yasal değişiklikler yapılmıştır?",
+        "answer": "703 sayılı Kanun Hükmünde Kararnamenin 185 inci maddesiyle 've askeri' ibaresi ve 7331 sayılı Kanun ile metinlerdeki 'altmış' ifadeleri 'otuz' olacak şekilde değiştirilmiştir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 11",
+        "source_article": "<Madde 11 – 1. İlgililer tarafından idari dava açı"
+      },
+      {
+        "question": "Bir isteğe otuz gün içinde cevap verilmezse ne olur?",
+        "answer": "İstek, reddedilmiş sayılır.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 11",
+        "source_article": "<Madde 11 – 1. İlgililer tarafından idari dava açı"
+      },
+      {
+        "question": "İsteğin reddedilmesi durumunda dava açma süresi nasıl işler?",
+        "answer": "İsteğin reddedilmesi halinde dava açma süresi yeniden işlemeye başlar ve başvurma tarihine kadar geçmiş süre hesaplanır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 11",
+        "source_article": "<Madde 11 – 1. İlgililer tarafından idari dava açı"
+      },
+      {
+        "question": "İlgililer hangi mahkemelere doğrudan doğruya dava açabilir?",
+        "answer": "İlgililer, Danıştay ve idare ile vergi mahkemelerine doğrudan doğruya tam yargı davaları veya iptal ve tam yargı davalarını birlikte açabilirler.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 12",
+        "source_article": "<Madde 12 – İlgililer haklarını ihlal eden bir ida"
+      },
+      {
+        "question": "Tam yargı davası nedir?",
+        "answer": "Tam yargı davası, idari işlemlerin kaynağında oluşan zararlardan dolayı ilgilinin, idareye karşı tam bir yargı arayabileceği bir hukuk yoludur.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 12",
+        "source_article": "<Madde 12 – İlgililer haklarını ihlal eden bir ida"
+      },
+      {
+        "question": "İlgililerin dava açma süreçlerinde hangi aşamalara dikkat etmesi gerekmektedir?",
+        "answer": "İlgililer önce iptal davası açabilir, ardından bu davanın karara bağlanmasını bekleyerek, kararın tebliği veya icra tarihinden itibaren tam yargı davası açabilirler.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 12",
+        "source_article": "<Madde 12 – İlgililer haklarını ihlal eden bir ida"
+      },
+      {
+        "question": "İdari işlemlere karşı açılan davaların sonuçları genellikle neleri etkiler?",
+        "answer": "İdari işlemlere karşı açılan davalar, ilgili kişilerin haklarının ihlal edilip edilmediği, zararın tazmini ve idarenin uygulamalarının denetlenmesi açısından önemli sonuçlar doğurur.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 12",
+        "source_article": "<Madde 12 – İlgililer haklarını ihlal eden bir ida"
+      },
+      {
+        "question": "İlgililerin dava açma süreleri neye bağlıdır?",
+        "answer": "İlgililerin dava açma süreleri, icra tarihinden itibaren başlar ve iptal davasının karara bağlanması veya kararların tebliği sebebiyle izlenir.",
+        "question_type": "Analytical",
+        "source": "İYUK Madde 12",
+        "source_article": "<Madde 12 – İlgililer haklarını ihlal eden bir ida"
+      },
+      {
+        "question": "İdari eylemlerden hakları ihlal edilmiş olanların hangi süreler içinde başvuruda bulunmaları gerekmektedir?",
+        "answer": "Hakları ihlal edilmiş olanlar, bu eylemleri öğrendikleri tarih itibarıyla bir yıl ve eylem tarihinden itibaren beş yıl içinde ilgili idareye başvurmalıdır.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 13",
+        "source_article": "<Madde 13 – 1. İdari eylemlerden hakları ihlal edi"
+      },
+      {
+        "question": "İdari eylemlerden hakları ihlal edilen kişiler, hangi durumda dava açma süresine sahiptir?",
+        "answer": "İdareye yapılan başvurunun kısmen veya tamamen reddedilmesi halinde veya isteğe otuz gün içinde cevap verilmediğinde, dava süresi başlar.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 13",
+        "source_article": "<Madde 13 – 1. İdari eylemlerden hakları ihlal edi"
+      },
+      {
+        "question": "İdari eylemlerden kaynaklanan hak ihlalleri için dava açmadan önce hangi adımlar izlenmelidir?",
+        "answer": "Öncelikle idari eylemi yazılı bildirimle veya başka bir yolla öğrenen kişiler, belirtilen süreler içinde ilgili idareye başvurmalıdır.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 13",
+        "source_article": "<Madde 13 – 1. İdari eylemlerden hakları ihlal edi"
+      },
+      {
+        "question": "İdari yargı mercilerine başvurma şartı hangi durumlardan sonra aranmamaktadır?",
+        "answer": "Görevli olmayan adli yargı mercilerine açılan tam yargı davasının reddi durumunda, sonradan idari yargı mercilerine açılacak davalarda bu başvurma şartı aranmaz.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 13",
+        "source_article": "<Madde 13 – 1. İdari eylemlerden hakları ihlal edi"
+      },
+      {
+        "question": "İdari eylemlerden hakları ihlal edilen kişilerin başvuru sürecinde dikkat etmeleri gereken kilit noktalar nelerdir?",
+        "answer": "Kişiler, idari eylemi öğrendikleri tarihten itibaren bir yıl ve eylem tarihinden itibaren beş yıl içinde başvuruda bulunmalı, olumsuz cevap alındığında veya cevap verilmediği durumlarda dava açma süresini takip etmelidir.",
+        "question_type": "Summarizing",
+        "source": "İYUK Madde 13",
+        "source_article": "<Madde 13 – 1. İdari eylemlerden hakları ihlal edi"
+      },
+      {
+        "question": "Dilekçeler Danıştayda hangi süreçten geçerek kaydedilir?",
+        "answer": "Dilekçeler Danıştayda Evrak Müdürlüğünce kaydedilir ve Genel Sekreterlikçe görevli dairelere havale olunur.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 14",
+        "source_article": "<Madde 14 – 1. Dilekçeler Danıştayda Evrak Müdürlü"
+      },
+      {
+        "question": "Dilekçelerde hangi yönlerden inceleme yapılması gerekmektedir?",
+        "answer": "İnceleme, görev ve yetki, idari merci tecavüzü, ehliyet, kesin ve yürütülmesi gereken işlem, süre aşımı, husumet ve 3 ve 5 inci maddelere uygunluk yönlerinden yapılır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 14",
+        "source_article": "<Madde 14 – 1. Dilekçeler Danıştayda Evrak Müdürlü"
+      },
+      {
+        "question": "Dilekçenin kaydedilme süreci hangi makamların sorumluluğundadır?",
+        "answer": "Dilekçeler, Danıştayda Evrak Müdürlüğü tarafından, bölge idare, idare ve vergi mahkemelerinde ise evrak bürosunca kaydedilir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 14",
+        "source_article": "<Madde 14 – 1. Dilekçeler Danıştayda Evrak Müdürlü"
+      },
+      {
+        "question": "Dilekçeler hangi durumlarda kanuna aykırı görülebilir?",
+        "answer": "Dilekçeler, yukarıda belirtilen inceleme yönlerine göre kanuna aykırı görülmesi durumunda, ilgili daire veya mahkemeye bir rapor ile bildirilir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 14",
+        "source_article": "<Madde 14 – 1. Dilekçeler Danıştayda Evrak Müdürlü"
+      },
+      {
+        "question": "Dilekçelerin inceleme sonuçlandırma süresi nedir?",
+        "answer": "Dilekçenin alındığı tarihten itibaren en geç onbeş gün içinde inceleme sonuçlandırılmalıdır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 14",
+        "source_article": "<Madde 14 – 1. Dilekçeler Danıştayda Evrak Müdürlü"
+      },
+      {
+        "question": "Danıştay veya idare ve vergi mahkemeleri hangi durumlarda kanuna aykırılık gözlemektedir?",
+        "answer": "Danıştay veya idare ve vergi mahkemeleri, maddenin 3. fıkrasında yazılı hususlarda kanuna aykırılık gördüklerinde ilgili işlemleri yaparlar.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 15",
+        "source_article": "<Madde 15 – 1. (Değişik: 5/4/1990-3622/6 md.) Danı"
+      },
+      {
+        "question": "Dilekçelerin görevli mercie tevdii ne anlama gelmektedir?",
+        "answer": "Dilekçelerin görevli mercie tevdii, başvurunun yetkili mahkemeye yapılması anlamına gelir ve bu durumda başvuru tarihi, merciine başvurma tarihi olarak kabul edilir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 15",
+        "source_article": "<Madde 15 – 1. (Değişik: 5/4/1990-3622/6 md.) Danı"
+      },
+      {
+        "question": "Danıştay veya mahkemeler, davanın görev ve yetki yönünden reddine ilişkin karar verdiklerinde hangi yolla itiraz edilebilir?",
+        "answer": "Bu durumda, ilgisine göre istinaf veya temyiz yoluna başvurulabilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 15",
+        "source_article": "<Madde 15 – 1. (Değişik: 5/4/1990-3622/6 md.) Danı"
+      },
+      {
+        "question": "Dilekçelerin reddi halinde yeni dilekçeler için harç alınır mı?",
+        "answer": "Evet, dilekçelerin 3. maddeye uygun olmamaları dolayısıyla reddedilmesi halinde yeni dilekçeler için ayrıca harç alınmaz.",
+        "question_type": "Analytical",
+        "source": "İYUK Madde 15",
+        "source_article": "<Madde 15 – 1. (Değişik: 5/4/1990-3622/6 md.) Danı"
+      },
+      {
+        "question": "Bir dilekçenin reddedilmesi durumunda aynı hataların tekrarı ne gibi bir sonuç doğurur?",
+        "answer": "Aynı yanlışlıklar yapıldığı takdirde, yeniden verilen dilekçeler de reddedilir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 15",
+        "source_article": "<Madde 15 – 1. (Değişik: 5/4/1990-3622/6 md.) Danı"
+      },
+      {
+        "question": "Dava dilekçeleri ve eklerinin davalıya tebliğ edilme süreci nasıldır?",
+        "answer": "Dava dilekçeleri ve ekleri, birer örneği davalıya tebliğ edilir ve davalının vereceği savunma davacıya da tebliğ olunur.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 16",
+        "source_article": "<Madde 16 – 1. Dava dilekçelerinin ve eklerinin bi"
+      },
+      {
+        "question": "Davacı ikinci dilekçeye ne zaman ve nasıl cevap verebilir?",
+        "answer": "Davacının ikinci dilekçesi davalıya tebliğ edilir, ancak davacı bu dilekçeye cevap veremez. Eğer davalının ikinci savunmasında davacının cevap vermesi gereken hususlar varsa, davacıya cevap vermesi için süre verilir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 16",
+        "source_article": "<Madde 16 – 1. Dava dilekçelerinin ve eklerinin bi"
+      },
+      {
+        "question": "Taraflar için tebliğ tarihine ilişkin yanıt verme süresi nedir?",
+        "answer": "Taraflar, tebliğ tarihinden itibaren otuz gün içinde cevap verebilirler. Bu süre, haklı sebeplerle mahkeme kararı ile bir defaya mahsus uzatılabilir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 16",
+        "source_article": "<Madde 16 – 1. Dava dilekçelerinin ve eklerinin bi"
+      },
+      {
+        "question": "Sürenin geçmesinden sonra tarafların hak iddia etme durumu nedir?",
+        "answer": "Sürenin geçmesinden sonra tarafların verecekleri savunmalara veya ikinci dilekçelere dayanarak hak iddia edemezler.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 16",
+        "source_article": "<Madde 16 – 1. Dava dilekçelerinin ve eklerinin bi"
+      },
+      {
+        "question": "Danıştayda ilk derece mahkemesi sıfatıyla görülen davalarda savcının rolü nedir?",
+        "answer": "Danıştayda ilk derece mahkemesi sıfatıyla görülen davalarda savcının esas hakkındaki yazılı düşüncesi taraflara tebliğ edilir ve taraflar on gün içinde görüşlerini yazılı olarak bildirebilirler.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 16",
+        "source_article": "<Madde 16 – 1. Dava dilekçelerinin ve eklerinin bi"
+      },
+      {
+        "question": "Dava dilekçesi ile ne tür talepler yapılabilir?",
+        "answer": "Dava dilekçesi ile duruşma talebi yapılabilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 17",
+        "source_article": "<Madde 17 – 1. (Değişik: 5/4/1990-3622/7 md.) Danı"
+      },
+      {
+        "question": "İptal ve tam yargı davalarında duruşma yapılması için hangi koşulun sağlanması gerekir?",
+        "answer": "Yirmibeşbin Türk Lirasını aşan davalarda taraflardan birinin istemesi gerekir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 17",
+        "source_article": "<Madde 17 – 1. (Değişik: 5/4/1990-3622/7 md.) Danı"
+      },
+      {
+        "question": "Duruşmanın yapılması hangi faktörlere bağlıdır?",
+        "answer": "Duruşmanın yapılması tarafların isteğine ve ilgili mahkeme kararına bağlıdır.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 17",
+        "source_article": "<Madde 17 – 1. (Değişik: 5/4/1990-3622/7 md.) Danı"
+      },
+      {
+        "question": "Mahkeme duruşma yapma kararını hangi durumlarda kendiliğinden verebilir?",
+        "answer": "Danıştay, mahkeme ve hakim, kayıtlar olmaksızın kendiliğinden duruşma yapma kararı verebilir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 17",
+        "source_article": "<Madde 17 – 1. (Değişik: 5/4/1990-3622/7 md.) Danı"
+      },
+      {
+        "question": "Duruşma davetiyeleri ne zaman taraflara gönderilmelidir?",
+        "answer": "Duruşma davetiyeleri, duruşma gününden en az otuz gün önce taraflara gönderilmelidir.",
+        "question_type": "Listing",
+        "source": "İYUK Madde 17",
+        "source_article": "<Madde 17 – 1. (Değişik: 5/4/1990-3622/7 md.) Danı"
+      },
+      {
+        "question": "Duruşmaların nasıl yapılması gerektiği, İYUK Madde 18'de nasıl belirtilmiştir?",
+        "answer": "Duruşmalar açık olarak yapılmalı, ancak genel ahlak veya kamu güvenliğinin gerekli kıldığı hallerde gizli yapılabilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 18",
+        "source_article": "<Madde 18 – 1. Duruşmalar açık olarak yapılır. Gen"
+      },
+      {
+        "question": "Duruşmaları kimin yöneteceği Madde 18'de nasıl tanımlanmıştır?",
+        "answer": "Duruşmaları başkan yönetir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 18",
+        "source_article": "<Madde 18 – 1. Duruşmalar açık olarak yapılır. Gen"
+      },
+      {
+        "question": "Taraflardan biri duruşmaya gelmezse ne olur?",
+        "answer": "Taraflardan yalnız biri gelirse onun açıklamaları dinlenir; hiç biri gelmezse duruşma açılmaz, inceleme evrak üzerinde yapılır.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 18",
+        "source_article": "<Madde 18 – 1. Duruşmalar açık olarak yapılır. Gen"
+      },
+      {
+        "question": "Duruşmalı işlerde savcıların hangi durumlarda yazılı düşünce bildirme hakkı vardır?",
+        "answer": "Savcılar, keşif, bilirkişi incelemesi veya delil tespiti yapılmasını isterlerse, bu talepleri kabul edilmezse yazılı düşünce bildirirler.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 18",
+        "source_article": "<Madde 18 – 1. Duruşmalar açık olarak yapılır. Gen"
+      },
+      {
+        "question": "İYUK Madde 18'in ana hatlarını özetler misiniz?",
+        "answer": "Madde 18, duruşmaların açık ya da gerektiğinde gizli yapılacağını, başkan tarafından yönetileceğini, taraflara ikişer defa söz verileceğini, savcının bulunmasının zorunlu olduğunu ve savcıların talepleri üzerine yazılı düşünce mevcut olduğunu belirtir.",
+        "question_type": "Summarizing",
+        "source": "İYUK Madde 18",
+        "source_article": "<Madde 18 – 1. Duruşmalar açık olarak yapılır. Gen"
+      },
+      {
+        "question": "Duruşmadan ne kadar süre sonra karar verilmelidir?",
+        "answer": "Duruşmadan en geç onbeş gün içinde karar verilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 19",
+        "source_article": "<Madde 19 – (Değişik birinci cümle: 10/6/1994-4001"
+      },
+      {
+        "question": "İYUK Madde 19'da 'ara kararı' ne anlama gelir?",
+        "answer": "'Ara kararı', duruşma sırasında verilen ve nihai karar verilene kadar geçici bir çözüm sunan karardır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 19",
+        "source_article": "<Madde 19 – (Değişik birinci cümle: 10/6/1994-4001"
+      },
+      {
+        "question": "Duruşma sonrası karar verilmesinin süresi neden önemlidir?",
+        "answer": "Karar verilme süresi, davanın hızlı ve etkili bir şekilde sonuçlanmasını sağlamak için önemlidir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 19",
+        "source_article": "<Madde 19 – (Değişik birinci cümle: 10/6/1994-4001"
+      },
+      {
+        "question": "Duruşma sonrası karar verilmesi gereken süre içinde herhangi bir gecikme olursa ne yapılmalıdır?",
+        "answer": "Eğer karar verilme süresinde bir gecikme olursa, ilgili mercilere durum bildirilmelidir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 19",
+        "source_article": "<Madde 19 – (Değişik birinci cümle: 10/6/1994-4001"
+      },
+      {
+        "question": "İYUK Madde 19'un temel mesajı nedir?",
+        "answer": "İYUK Madde 19, duruşma yapıldıktan sonra karar verilmesinin belirli bir süre içinde gerçekleşmesi gerektiğini belirtmektedir.",
+        "question_type": "Summarizing",
+        "source": "İYUK Madde 19",
+        "source_article": "<Madde 19 – (Değişik birinci cümle: 10/6/1994-4001"
+      },
+      {
+        "question": "Danıştay'ın inceleme yetkisi nedir?",
+        "answer": "Danıştay, bakmakta olduğu davalara ait her türlü incelemeyi kendiliğinden yapar ve lüzum gördüğü evrak ile bilgileri taraflardan isteyebilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 20",
+        "source_article": "<Madde 20 – 1. (Değişik birinci cümle: 18/6/2014-6"
+      },
+      {
+        "question": "Mahkemeler hangi durumlarda bilgi ve belgeleri isteyebilir?",
+        "answer": "Mahkemeler, bakmakta oldukları davalara dair her türlü incelemeyi yaparken taraflardan ve ilgili diğer yerlerden lüzum gördükleri bilgi ve belgeleri isteyebilirler.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 20",
+        "source_article": "<Madde 20 – 1. (Değişik birinci cümle: 18/6/2014-6"
+      },
+      {
+        "question": "Cumhurbaşkanı hangi durumlarda bilgi ve belge vermeyebilir?",
+        "answer": "Cumhurbaşkanı, istenen bilgi ve belgelerin Devletin güvenliğine veya yüksek menfaatlerine ilişkin olması durumunda, gerekçesini bildirerek bu bilgileri vermeyebilir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 20",
+        "source_article": "<Madde 20 – 1. (Değişik birinci cümle: 18/6/2014-6"
+      },
+      {
+        "question": "Taraflardan biri ara kararının icaplarını yerine getirmezse ne olur?",
+        "answer": "Eğer taraflardan biri ara kararının icaplarını yerine getirmezse, bu durumun verilecek karar üzerindeki etkisi mahkemece değerlendirilir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 20",
+        "source_article": "<Madde 20 – 1. (Değişik birinci cümle: 18/6/2014-6"
+      },
+      {
+        "question": "Mahkemelerin dosya inceleme süreci nasıl işler?",
+        "answer": "Mahkemeler, öncelik veya ivedilik durumlarını göz önünde bulundurarak dosyaları geliş tarihlerine göre inceler ve tekemmül ettikleri sıraya göre karara bağlar.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 20",
+        "source_article": "<Madde 20 – 1. (Değişik birinci cümle: 18/6/2014-6"
+      },
+      {
+        "question": "İvedi yargılama usulü hangi işlemler hakkında uygulanır?",
+        "answer": "İvedi yargılama usulü, ihaleler, acele kamulaştırma, özelleştirme kararları, Turizmi Teşvik Kanunu kapsamındaki işlemler, çevresel etki değerlendirmeleri ve afet riski altındaki alanlarla ilgili kararlar hakkında uygulanır.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 20/A",
+        "source_article": "<Madde 20/A – (Ek: 18/6/2014-6545/18 md.) 1. İvedi"
+      },
+      {
+        "question": "İvedi yargılama usulünde dava açma süresi ne kadardır?",
+        "answer": "İvedi yargılama usulünde dava açma süresi otuz gündür.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 20/A",
+        "source_article": "<Madde 20/A – (Ek: 18/6/2014-6545/18 md.) 1. İvedi"
+      },
+      {
+        "question": "İvedi yargılama usulüne tabi davaların nihai karar süreleri nedir?",
+        "answer": "İvedi yargılama usulüne tabi davalar, dosyanın tekemmülünden itibaren en geç bir ay içinde karara bağlanır.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 20/A",
+        "source_article": "<Madde 20/A – (Ek: 18/6/2014-6545/18 md.) 1. İvedi"
+      },
+      {
+        "question": "Savunma süresi ne zamandan itibaren başlar ve ne kadar uzatılabilir?",
+        "answer": "Savunma süresi, dava dilekçesinin tebliğinden itibaren on beş gün olup, bir defaya mahsus olmak üzere en fazla on beş gün uzatılabilir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 20/A",
+        "source_article": "<Madde 20/A – (Ek: 18/6/2014-6545/18 md.) 1. İvedi"
+      },
+      {
+        "question": "İvedi yargılama usulü ile ilgili 12/3/1982 tarihli kanunun önemi nedir?",
+        "answer": "12/3/1982 tarihli ve 2634 sayılı Turizmi Teşvik Kanunu, ivedi yargılama usulü kapsamında yapılan satış, tahsis ve kiralama işlemlerinin hızlı bir biçimde yargıya taşınmasını sağlamaktadır.",
+        "question_type": "Analytical",
+        "source": "İYUK Madde 20/A",
+        "source_article": "<Madde 20/A – (Ek: 18/6/2014-6545/18 md.) 1. İvedi"
+      },
+      {
+        "question": "Millî Eğitim Bakanlığı ile Ölçme, Seçme ve Yerleştirme Merkezi tarafından yapılan sınavlar hakkında açılan davaların dava açma süresi nedir?",
+        "answer": "Dava açma süresi on gündür.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 20/B",
+        "source_article": "<Madde 20/B – (Ek: 10/9/2014-6552/96 md.) 1. Millî"
+      },
+      {
+        "question": "Bu davalarda savunma süresi ne kadardır ve uzatılabilir mi?",
+        "answer": "Savunma süresi dava dilekçesinin tebliğinden itibaren üç gündür ve bir defaya mahsus en fazla üç gün uzatılabilir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 20/B",
+        "source_article": "<Madde 20/B – (Ek: 10/9/2014-6552/96 md.) 1. Millî"
+      },
+      {
+        "question": "Merkezî sınavlarla ilgili açılan davalarda ilk inceleme süresi nedir?",
+        "answer": "İlk inceleme yedi gün içinde yapılır.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 20/B",
+        "source_article": "<Madde 20/B – (Ek: 10/9/2014-6552/96 md.) 1. Millî"
+      },
+      {
+        "question": "Dava dosyası hangi durumlarda tekemmül etmiş sayılır?",
+        "answer": "Savunmanın verilmesi veya savunma verme süresinin geçmesiyle dosya tekemmül etmiş sayılır.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 20/B",
+        "source_article": "<Madde 20/B – (Ek: 10/9/2014-6552/96 md.) 1. Millî"
+      },
+      {
+        "question": "Temyiz dilekçelerine cevap verme süresi ne kadardır?",
+        "answer": "Temyiz dilekçelerine cevap verme süresi beş gündür.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 20/B",
+        "source_article": "<Madde 20/B – (Ek: 10/9/2014-6552/96 md.) 1. Millî"
+      },
+      {
+        "question": "Bu madde hangi kamu görevlilerini kapsamaktadır?",
+        "answer": "Bu madde, Millî Savunma Bakanlığı kadrolarında çalışan kamu görevlileri ile 25/6/2019 tarihli ve 7179 sayılı Askeralma Kanunu kapsamında askerlik hizmetini yerine getiren yedek subaylar, yedek astsubaylar, erbaş ve erleri kapsamaktadır.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 20/C",
+        "source_article": "<Madde 20/C- (Ek:24/6/2021-7329/16 md.) 1. Bu madd"
+      },
+      {
+        "question": "İdari uyuşmazlıkların çözümünde hangi mahkeme yetkilidir?",
+        "answer": "Uyuşmazlıkların çözümünde ilgilinin görev yaptığı yerin idari yargı yetkisi yönünden bağlı olduğu bölge idare mahkemesinin bulunduğu yerdeki idare mahkemesi yetkilidir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 20/C",
+        "source_article": "<Madde 20/C- (Ek:24/6/2021-7329/16 md.) 1. Bu madd"
+      },
+      {
+        "question": "Dava dilekçelerinde hangi bilgiler yer almalıdır?",
+        "answer": "Dava dilekçelerinde, 3 üncü maddenin ikinci fıkrasında sayılanlara ilaveten, bu madde kapsamındakilerin sicili, varsa sınıfı ve rütbesi de gösterilmelidir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 20/C",
+        "source_article": "<Madde 20/C- (Ek:24/6/2021-7329/16 md.) 1. Bu madd"
+      },
+      {
+        "question": "Savaş hâlinde ne tür bir karar verilemez?",
+        "answer": "Savaş hâlinde yürütmenin durdurulmasına karar verilemez.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 20/C",
+        "source_article": "<Madde 20/C- (Ek:24/6/2021-7329/16 md.) 1. Bu madd"
+      },
+      {
+        "question": "Olağanüstü hâllerde alınan tedbirlerin uygulanması durumunda yargı yolu neye açıktır?",
+        "answer": "Olağanüstü hâller sebebiyle alınan tedbirlerin uygulanmasında görevlendirilenlerin naklen atanmalarına ilişkin iptal davalarında, yürütmenin durdurulmasına karar verilemez; ancak diğer ilişik kesme kararlarına karşı yargı yolu açıktır.",
+        "question_type": "Analytical",
+        "source": "İYUK Madde 20/C",
+        "source_article": "<Madde 20/C- (Ek:24/6/2021-7329/16 md.) 1. Bu madd"
+      },
+      {
+        "question": "Madde 21'de belirtilen belgelerin mahkemeye verilme süresi nedir?",
+        "answer": "Belgeler, vaktinde ibraz edilmemişse, mahkeme bu belgelerin kabul edilip edilmeyeceğine kanaat getirir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 21",
+        "source_article": "<Madde 21 – Dilekçeler ve savunmalarla birlikte ve"
+      },
+      {
+        "question": "Mahkeme, belgelerin vaktinde sunulmadığını düşünüyorsa ne yapar?",
+        "answer": "Mahkeme, belgelerin kabulüne ve diğer tarafa tebliğ edilmesine karar verebilir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 21",
+        "source_article": "<Madde 21 – Dilekçeler ve savunmalarla birlikte ve"
+      },
+      {
+        "question": "Duruşmada ibraz edilemeyen belgelerin durumu nedir?",
+        "answer": "Duruşmada ibraz edilen belgeler için diğer tarafın hemen cevap verme hakkı vardır ya da cevap vermek istemeyebilir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 21",
+        "source_article": "<Madde 21 – Dilekçeler ve savunmalarla birlikte ve"
+      },
+      {
+        "question": "Belgelerin vaktinde ibraz edilmemesi durumunun sonucu ne olur?",
+        "answer": "Mahkeme belgeyi kabul edebilir ve diğer tarafa tebliğ edebilir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 21",
+        "source_article": "<Madde 21 – Dilekçeler ve savunmalarla birlikte ve"
+      },
+      {
+        "question": "Madde 21'de belirtilen belgelerin duruşmada ibraz edilmesi üzerine hangi süreçler işler?",
+        "answer": "Belgeler duruşmada ibraz edilir ve diğer tarafın cevap vermesine imkan tanınır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 21",
+        "source_article": "<Madde 21 – Dilekçeler ve savunmalarla birlikte ve"
+      },
+      {
+        "question": "Madde 22'de hangi konuların oya konulacağı belirtilmiştir?",
+        "answer": "Madde 22'de, konular aydınlandığında meselelerin sırasıyla oya konulması gerektiği belirtilmiştir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 22",
+        "source_article": "<Madde 22 – 1. Konular aydınlandığında meseleler s"
+      },
+      {
+        "question": "Azınlıkta kalanların oy verme hakları nelerdir?",
+        "answer": "Azınlıkta kalanlar, işin esası hakkında oylarını kullanabilirler.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 22",
+        "source_article": "<Madde 22 – 1. Konular aydınlandığında meseleler s"
+      },
+      {
+        "question": "Yargılama usullerine ilişkin meselelerde azınlıkta kalanların görüşleri nasıl değerlendirilir?",
+        "answer": "Azınlıkta kalanların görüşleri, kararların altına yazılır.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 22",
+        "source_article": "<Madde 22 – 1. Konular aydınlandığında meseleler s"
+      },
+      {
+        "question": "Meselelerin oya konulma sırası nasıl belirlenir?",
+        "answer": "Meselelerin oya konulma sırası, konuların aydınlanması ile belirlenir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 22",
+        "source_article": "<Madde 22 – 1. Konular aydınlandığında meseleler s"
+      },
+      {
+        "question": "Yargılama usulü ile ilgili bir problem ortaya çıktığında azınlıkta kalanların yasal dayanağı nedir?",
+        "answer": "Azınlıkta kalanların yasal dayanağı, 15. maddede belirtilen sebeplerdir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 22",
+        "source_article": "<Madde 22 – 1. Konular aydınlandığında meseleler s"
+      },
+      {
+        "question": "Madde 23'te düzenlenen tutanakta hangi bilgilerin yer alması gerekmektedir?",
+        "answer": "Tutanakta, başkan ve üyelerin ad ve soyadları, Danıştayda düşünce veren savcının adı, tetkik hakiminin adı, tarafların ad ve soyadları, incelenen dosya numarası, dava konusu ve verilen kararın neticesi yer almalıdır.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 23",
+        "source_article": "<Madde 23 – Her dava dosyası için görüşmelere katı"
+      },
+      {
+        "question": "İYUK Madde 23 kapsamında düzenlenen tutanakların amacı nedir?",
+        "answer": "Tutanaklar, dava görüşmelerinin bilgi ve belgelerinin kaydedilmesi ve belgelerin resmi bir kaynağa sahip olması amacıyla düzenlenir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 23",
+        "source_article": "<Madde 23 – Her dava dosyası için görüşmelere katı"
+      },
+      {
+        "question": "Görüşmelere katılanların tutanağı imzalaması neden önemlidir?",
+        "answer": "Görüşmelere katılanların tutanağı imzalaması, alınan kararın onaylandığını ve tutanağın resmi bir belgeleme aracı olarak geçerliliğini artırır.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 23",
+        "source_article": "<Madde 23 – Her dava dosyası için görüşmelere katı"
+      },
+      {
+        "question": "Tutanakların saklanma süreci nasıl olmalıdır?",
+        "answer": "Tutanaklar, görüşmelere katılanlar tarafından imzalandıktan sonra dosyalarına eklenmeli ve güvenli bir şekilde saklanmalıdır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 23",
+        "source_article": "<Madde 23 – Her dava dosyası için görüşmelere katı"
+      },
+      {
+        "question": "Madde 23 ile ilgili en önemli bilgileri listeleyin.",
+        "answer": "1. Başkan ve üyelerin ad ve soyadları; 2. Düşünce veren savcının adı; 3. Tetkik hakiminin adı; 4. Tarafların ad ve soyadları; 5. İncelenen dosya numarası; 6. Dava konusu; 7. Verilen kararın neticesi.",
+        "question_type": "Listing",
+        "source": "İYUK Madde 23",
+        "source_article": "<Madde 23 – Her dava dosyası için görüşmelere katı"
+      },
+      {
+        "question": "Madde 24'te hangi bilgilerin karar metninde yer alması gerektiği belirtilmektedir?",
+        "answer": "Karar metninde tarafların ad ve soyadları, dava konusu olayların özeti, kararın hukuki sebepleri, duruşma bilgileri ve kararın tarihi gibi bilgiler yer almalıdır.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 24",
+        "source_article": "<Madde 24 – Kararlarda: a) Tarafların ve varsa vek"
+      },
+      {
+        "question": "Karar metninde hangi unsurlar hukuki gerekçe olarak öne çıkmaktadır?",
+        "answer": "Kararın dayandığı hukuki sebepler ile gerekçesi hukuki gerekçe olarak öne çıkmaktadır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 24",
+        "source_article": "<Madde 24 – Kararlarda: a) Tarafların ve varsa vek"
+      },
+      {
+        "question": "Duruşmalı davalarda hangi bilgiler karar metninde yer almalıdır?",
+        "answer": "Duruşma yapılıp yapılmadığı, yapılmışsa tarafların ve vekillerinin ad ve soyadları gibi bilgiler yer almalıdır.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 24",
+        "source_article": "<Madde 24 – Kararlarda: a) Tarafların ve varsa vek"
+      },
+      {
+        "question": "Kararların verilmesinden sonra hangi süre içinde yazılması ve imzalanması gerekmektedir?",
+        "answer": "Kararlar, verildiği tarihten itibaren otuz gün içinde yazılmalı ve imzalanmalıdır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 24",
+        "source_article": "<Madde 24 – Kararlarda: a) Tarafların ve varsa vek"
+      },
+      {
+        "question": "Madde 24'te belirtilen kararlarda karşı oyların nasıl ifade edileceği hakkında ne denmektedir?",
+        "answer": "Kararı veren mahkeme başkan ve üyelerinin adları, imzaları ve varsa karşı oyları karar metninde belirtilmelidir.",
+        "question_type": "Listing",
+        "source": "İYUK Madde 24",
+        "source_article": "<Madde 24 – Kararlarda: a) Tarafların ve varsa vek"
+      },
+      {
+        "question": "İYUK Madde 25 gereği kararın imzaları nasıl düzenlenir?",
+        "answer": "Karar, mahkeme başkanı ve üyeleri veya hakimi tarafından imzalı asıllardan biri karar dosyasına, diğeri ise dava dosyasına konur.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 25",
+        "source_article": "<Madde 25 – Kararın mahkeme başkanı ve üyeleri vey"
+      },
+      {
+        "question": "İYUK Madde 25'te kararın taraflara tebliği hakkında hangi işlemler belirtilmiştir?",
+        "answer": "Karar, mahkeme mührü ve başkan yahut hakim, Danıştayda daire veya kurul başkanı veya görevlendireceği bir üye imzasıyla tasdikli birer örneği taraflara tebliğ edilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 25",
+        "source_article": "<Madde 25 – Kararın mahkeme başkanı ve üyeleri vey"
+      },
+      {
+        "question": "İYUK Madde 25'in anlamı ve kapsamı nedir?",
+        "answer": "İYUK Madde 25, mahkeme kararının düzenli bir şekilde imzalanmasını ve taraflara resmi olarak tebliğini sağlayan bir süreç tarif eder.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 25",
+        "source_article": "<Madde 25 – Kararın mahkeme başkanı ve üyeleri vey"
+      },
+      {
+        "question": "Mahkeme başkanı ve hakimler tarafından kararın imzaları neden önemlidir?",
+        "answer": "Kararın imzalanması, mahkeme kararının resmi ve geçerli olduğunu teyit eder, yargı yetkisinin kullanılmasını ve hukukun uygulanmasını sağlar.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 25",
+        "source_article": "<Madde 25 – Kararın mahkeme başkanı ve üyeleri vey"
+      },
+      {
+        "question": "İYUK Madde 25 göz önünde bulundurulduğunda, kararların geçerliliği nasıl etkilenir?",
+        "answer": "Kararların geçerliliği, mahkeme başkanı ve üyelerinin imzaları ile sağlanır; işlem eksikse kararın hukuki etkisi sorgulanabilir.",
+        "question_type": "Analytical",
+        "source": "İYUK Madde 25",
+        "source_article": "<Madde 25 – Kararın mahkeme başkanı ve üyeleri vey"
+      },
+      {
+        "question": "Dava esnasında olaylardan biri olarak tarafların ölümünde ne olur?",
+        "answer": "Taraflardan birinin ölmesi durumunda, davayı takip hakkı mirasçılara geçer ve ilgili mahkeme, dosyanın işlemden kaldırılmasına karar verebilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 26",
+        "source_article": "<Madde 26 – 1. Dava esnasında ölüm veya herhangi b"
+      },
+      {
+        "question": "Dava dosyasının işlemden kaldırılmasının sonuçları nelerdir?",
+        "answer": "Dosyanın işlemden kaldırılması, yürütmenin durdurulması kararının hükümsüz kalmasına ve davanın açılmamış sayılmasına yol açabilir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 26",
+        "source_article": "<Madde 26 – 1. Dava esnasında ölüm veya herhangi b"
+      },
+      {
+        "question": "Davacının adresine tebligat yapılamadığında izlenecek prosedür nedir?",
+        "answer": "Adrese tebligat yapılamadığında, yeni adresin bildirilmesine kadar dava dosyası işlemden kaldırılır ve yeni adres bildirilmezse, bir yıl içinde davanın açılmamış sayılmasına karar verilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 26",
+        "source_article": "<Madde 26 – 1. Dava esnasında ölüm veya herhangi b"
+      },
+      {
+        "question": "Dava esnasında tarafların kişiliklerinde bir değişiklik olursa ne yapılmalıdır?",
+        "answer": "Tarafların kişiliklerinde bir değişiklik olursa, davayı takip hakkının kendisine geçmesi beklenir; aksi takdirde dosya işlemden kaldırılabilir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 26",
+        "source_article": "<Madde 26 – 1. Dava esnasında ölüm veya herhangi b"
+      },
+      {
+        "question": "Dava dosyasının bir yıl içinde yeniden işleme konulması talep edilmezse ne olur?",
+        "answer": "Eğer dava dosyası bir yıl içinde yeniden işleme konulması talep edilmezse, dava açılmamış sayılır.",
+        "question_type": "Summarizing",
+        "source": "İYUK Madde 26",
+        "source_article": "<Madde 26 – 1. Dava esnasında ölüm veya herhangi b"
+      },
+      {
+        "question": "Danıştayda veya idari mahkemelerde dava açılması idari işlemin yürütülmesini nasıl etkiler?",
+        "answer": "Danıştayda veya idari mahkemelerde dava açılması, dava edilen idari işlemin yürütülmesini durdurmaz.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 27",
+        "source_article": "<Madde 27 – (Değişik: 10/6/1994-4001/12 md.) 1. Da"
+      },
+      {
+        "question": "Yürütmenin durdurulması kararının verilmesi için hangi şartların sağlanması gerekmektedir?",
+        "answer": "Yürütmenin durdurulması için, idari işlemin açıkça hukuka aykırı olması ve uygulanması halinde telafisi güç veya imkânsız zararların doğması şartlarının birlikte gerçekleşmesi gerekmektedir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 27",
+        "source_article": "<Madde 27 – (Değişik: 10/6/1994-4001/12 md.) 1. Da"
+      },
+      {
+        "question": "İdari işlemlere karşı yürütmenin durdurulması talebinin hangi durumlarda kabul edilemeyeceği belirtilmektedir?",
+        "answer": "Kamu görevlileri hakkında tesis edilen atama, naklen atama, görev ve unvan değişikliği gibi idari işlemler yürütmenin durdurulmasından sayılmaz.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 27",
+        "source_article": "<Madde 27 – (Değişik: 10/6/1994-4001/12 md.) 1. Da"
+      },
+      {
+        "question": "Yürütmenin durdurulmasına ilişkin karar verilmediği haller nelerdir?",
+        "answer": "Eğer idari işlemin iptali istemiyle Anayasa Mahkemesine başvuru yapılmışsa yürütmenin durdurulması kararı verilemez.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 27",
+        "source_article": "<Madde 27 – (Değişik: 10/6/1994-4001/12 md.) 1. Da"
+      },
+      {
+        "question": "Yürütmenin durdurulması istemiyle ilgili olarak itiraz süresi ne kadardır?",
+        "answer": "Yürütmenin durdurulması kararlarına itiraz, kararın tebliğini izleyen günden itibaren yedi gün içinde bir defaya mahsus olmak üzere yapılabilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 27",
+        "source_article": "<Madde 27 – (Değişik: 10/6/1994-4001/12 md.) 1. Da"
+      },
+      {
+        "question": "Danıştay bölge idare mahkemeleri, idare ve vergi mahkemelerinin kararlarına ilişkin idare hangi süre içinde işlem yapmalıdır?",
+        "answer": "İdare, kararın tebliğinden itibaren otuz gün içinde işlem tesis etmeye veya eylemde bulunmaya mecburdur.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 28",
+        "source_article": "<Madde 28 – 1.(Değişik:10/6/1994-4001/13 md.) Danı"
+      },
+      {
+        "question": "Mahkeme kararlarının süresi içinde yerine getirilmemesi durumunda hangi tür davalar açılabilir?",
+        "answer": "İdare aleyhine maddi ve manevi tazminat davası açılabilir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 28",
+        "source_article": "<Madde 28 – 1.(Değişik:10/6/1994-4001/13 md.) Danı"
+      },
+      {
+        "question": "Mahkeme kararının tebliğinden sonra idarenin mükellefe bildirmesi gereken mali yükümler nelerdir?",
+        "answer": "Vergi, resim, harçlar ve benzeri mali yükümler ile zam ve cezaların miktarı bildirilmelidir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 28",
+        "source_article": "<Madde 28 – 1.(Değişik:10/6/1994-4001/13 md.) Danı"
+      },
+      {
+        "question": "Mahkeme kararının süresi içinde yerine getirilmemesi halinde idareye karşı ne tür bir yaptırım uygulanabilir?",
+        "answer": "Tazminat davası açılabilir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 28",
+        "source_article": "<Madde 28 – 1.(Değişik:10/6/1994-4001/13 md.) Danı"
+      },
+      {
+        "question": "Mahkeme kararının tebliğ tarihi ile ödeme tarihi arasındaki süreye göre hangi faiz hesaplanır?",
+        "answer": "Tezcil faizi, Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48. maddesine göre hesaplanır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 28",
+        "source_article": "<Madde 28 – 1.(Değişik:10/6/1994-4001/13 md.) Danı"
+      },
+      {
+        "question": "Danıştay ve mahkemelerin hangi durumlarda kararların açıklanmasını isteyebilirler?",
+        "answer": "Kararlar yeterince açık değilse veya birbirine aykırı hüküm fıkraları taşıyorsa açıklama istenebilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 29",
+        "source_article": "<Madde 29 – 1. Danıştay, bölge idare mahkemeleri, "
+      },
+      {
+        "question": "Açıklama dilekçeleri kaç nüsha verilmelidir?",
+        "answer": "Açıklama dilekçeleri, karşı taraf sayısından bir nüsha fazla verilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 29",
+        "source_article": "<Madde 29 – 1. Danıştay, bölge idare mahkemeleri, "
+      },
+      {
+        "question": "Taraflar kararın açıklanmasını talep edebilir mi? Hangi aşamada bu talebi yapabilirler?",
+        "answer": "Taraflar, kararın yerine getirilmesine kadar açıklama veya aykırılığın kaldırılmasını talep edebilirler.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 29",
+        "source_article": "<Madde 29 – 1. Danıştay, bölge idare mahkemeleri, "
+      },
+      {
+        "question": "Kararın açıklanması talebi nasıl bir süreç içerir?",
+        "answer": "Kararı veren mahkeme, dilekçeyi inceler, gerek görürse bir örneğini karşı tarafa tebliğ eder ve cevap süresi belirler.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 29",
+        "source_article": "<Madde 29 – 1. Danıştay, bölge idare mahkemeleri, "
+      },
+      {
+        "question": "Mahkeme, hangi durumlarda açıklama yapma gereği hisseder?",
+        "answer": "Mahkeme, kararın yeterince açık olmaması veya aykırılık olması durumlarında açıklama yapma gereği hissedebilir.",
+        "question_type": "Analytical",
+        "source": "İYUK Madde 29",
+        "source_article": "<Madde 29 – 1. Danıştay, bölge idare mahkemeleri, "
+      },
+      {
+        "question": "Madde 30'un birinci fıkrasında hangi durumların düzeltilmesi istenebilir?",
+        "answer": "İki tarafın adı, soyadı, sıfatı ve iddiaları sonucuna ilişkin yanlışlıklar ile hüküm fıkrasındaki hesap yanlışlıklarının düzeltilmesi istenebilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 30",
+        "source_article": "<Madde 30 – 1. İki tarafın adı ve soyadı ile sıfat"
+      },
+      {
+        "question": "Madde 30'da belirtilen düzeltme işleminin amacı nedir?",
+        "answer": "Düzeltme işlemi, mahkeme kararındaki yanlışlıkları gidermek ve doğru bilgileri yansıtmak amacıyla yapılır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 30",
+        "source_article": "<Madde 30 – 1. İki tarafın adı ve soyadı ile sıfat"
+      },
+      {
+        "question": "Yanlışlıkların düzeltilmesi talep edildiğinde hangi ek hükümlerin uygulanacağı belirtilmektedir?",
+        "answer": "29. maddenin son fıkrası dışında kalan hükümleri, bu istekler hakkında da uygulanır.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 30",
+        "source_article": "<Madde 30 – 1. İki tarafın adı ve soyadı ile sıfat"
+      },
+      {
+        "question": "Yanlışlıkların düzeltilmesine karar verildiğinde ne yapılır?",
+        "answer": "Düzeltme ilamının altına düzeltme yazılır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 30",
+        "source_article": "<Madde 30 – 1. İki tarafın adı ve soyadı ile sıfat"
+      },
+      {
+        "question": "Yanlışlıkların düzeltilmesi durumunda hangi bilgilerin kaydedileceği hakkında ne söylenebilir?",
+        "answer": "Düzeltme ilamının altına, yapılan düzeltmeye dair bilgiler yazılır.",
+        "question_type": "Analytical",
+        "source": "İYUK Madde 30",
+        "source_article": "<Madde 30 – 1. İki tarafın adı ve soyadı ile sıfat"
+      },
+      {
+        "question": "Hukuk Usulü Muhakemeleri Kanunu'na atıf yapılan haller nelerdir?",
+        "answer": "Hukuk Usulü Muhakemeleri Kanunu kapsamında; hakimlerin davaya bakmaktan memnuiyeti ve reddi, tarafların vekilleri, dosyanın incelenmesi, feragat ve kabul gibi konular yer almaktadır.",
+        "question_type": "Listing",
+        "source": "İYUK Madde 31",
+        "source_article": "<Madde 31 – 1. Bu Kanunda hüküm bulunmayan hususla"
+      },
+      {
+        "question": "Davanın ihbarı hangi durumlarda resmi olarak yapılır?",
+        "answer": "Davanın ihbarı, Danıştay, mahkeme veya hakim tarafından re'sen yapılır.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 31",
+        "source_article": "<Madde 31 – 1. Bu Kanunda hüküm bulunmayan hususla"
+      },
+      {
+        "question": "Bilirkişi seçimi nasıl gerçekleşir?",
+        "answer": "Bilirkişi seçimi, bilirkişilik bölge kurulları tarafından hazırlanan listelerden yapılır ve Bilirkişilik Kanunu ile Hukuk Muhakemeleri Kanunu'nun ilgili hükümleri uygulanır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 31",
+        "source_article": "<Madde 31 – 1. Bu Kanunda hüküm bulunmayan hususla"
+      },
+      {
+        "question": "Hukuk Usulü Muhakemeleri Kanunu’nun uygulanmadığı haller nelerdir?",
+        "answer": "Muafiyetler, vergi uyuşmazlıklarının çözümünde Vergi Usul Kanunu hükümlerinin uygulanması gibi özel durumları içermektedir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 31",
+        "source_article": "<Madde 31 – 1. Bu Kanunda hüküm bulunmayan hususla"
+      },
+      {
+        "question": "Mahkemenin düzenini bozacak hareketlere karşı hangi işlemler yapılır?",
+        "answer": "Mahkemenin sukünunu ve inzibatını bozacak hareketlere karşı duruşma sırasında uygun işlemler yapılır.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 31",
+        "source_article": "<Madde 31 – 1. Bu Kanunda hüküm bulunmayan hususla"
+      },
+      {
+        "question": "İdari işlemi yapan idari merciin bulunduğu yerdeki idare mahkemesi ne zaman yetkili olur?",
+        "answer": "İdari işlemi veya idari sözleşmeyi yapan idari merciin bulunduğu yerdeki idare mahkemesi, yetkili idare mahkemesi olarak kabul edilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 32",
+        "source_article": "<Madde 32 – 1. Göreve ilişkin hükümler saklı kalma"
+      },
+      {
+        "question": "İdare mahkemesinin yetkisi hangi şartlarda belirlenir?",
+        "answer": "Yetkili idare mahkemesinin belirlenmesi, davanın konusu ile bağlantılı olarak yapılır ve idari mercii ile lokasyonuna dayanır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 32",
+        "source_article": "<Madde 32 – 1. Göreve ilişkin hükümler saklı kalma"
+      },
+      {
+        "question": "İdare mahkemesinin yetkisi neyi etkiler?",
+        "answer": "İdare mahkemesinin yetkisi, idari işlemlere karşı açılan davaların çözümünü ve yargı süreçlerini doğrudan etkiler.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 32",
+        "source_article": "<Madde 32 – 1. Göreve ilişkin hükümler saklı kalma"
+      },
+      {
+        "question": "Birini dava etmeyi düşündüğümüzde ilk hangi adım atılmalıdır?",
+        "answer": "Öncelikle, dava konusu idari işlemi yapan idari merciin bulunduğu yerdeki yetkili idare mahkemesi belirlenmelidir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 32",
+        "source_article": "<Madde 32 – 1. Göreve ilişkin hükümler saklı kalma"
+      },
+      {
+        "question": "MADDE 32'nin özeti nedir?",
+        "answer": "MADDE 32, yetkili idare mahkemesinin belirlenmesi ile ilgili kuralları düzenler ve idari işlemlerin sorgulanmasında yetkinin nasıl belirleneceğini açıklar.",
+        "question_type": "Summarizing",
+        "source": "İYUK Madde 32",
+        "source_article": "<Madde 32 – 1. Göreve ilişkin hükümler saklı kalma"
+      },
+      {
+        "question": "Kamu görevlilerinin atanması ve nakilleri ile ilgili davalarda yetkili mahkeme nedir?",
+        "answer": "Kamu görevlilerinin atanması ve nakilleri ile ilgili davalarda yetkili mahkeme, kamu görevlilerinin yeni veya eski görev yeri idare mahkemesidir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 33",
+        "source_article": "<Madde 33 – 1. (Değişik: 5/4/1990-3622/12 md.) Kam"
+      },
+      {
+        "question": "Kamu görevlisinin işten çıkarılması ile ilgili davalarda hangi mahkeme yetkilidir?",
+        "answer": "Kamu görevlisinin görevine son verilmesi, emekli edilmesi veya görevden uzaklaştırılması ile ilgili davalarda yetkili mahkeme, kamu görevlisinin son görev yaptığı yer idare mahkemesidir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 33",
+        "source_article": "<Madde 33 – 1. (Değişik: 5/4/1990-3622/12 md.) Kam"
+      },
+      {
+        "question": "Hâkim ve savcıların mali haklarına itiraz edileceği mahkeme hangi faktörlere bağlıdır?",
+        "answer": "Hâkim ve savcıların mali ve sosyal haklarına, sicillerine ilişkin davalarda yetkili mahkeme, hâkim veya savcının görev yaptığı yerin idari yargı yetkisi yönünden bağlı olduğu bölge idare mahkemesine en yakın bölge idare mahkemesinin bulunduğu yer idare mahkemesidir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 33",
+        "source_article": "<Madde 33 – 1. (Değişik: 5/4/1990-3622/12 md.) Kam"
+      },
+      {
+        "question": "Kamu görevlilerinin disiplin cezaları ile ilgili davaların yetkili mahkemesi neresidir?",
+        "answer": "Kamu görevlilerinin görevle ilişkisinin kesilmesi sonucunu doğurmayan disiplin cezaları ile ilgili davalarda yetkili mahkeme ilgilinin görevli bulunduğu yer idare mahkemesidir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 33",
+        "source_article": "<Madde 33 – 1. (Değişik: 5/4/1990-3622/12 md.) Kam"
+      },
+      {
+        "question": "Kamu görevlilerinin görevden uzaklaştırılması ile ilgili davaların yetkili mahkemesi hangi koşullarda farklılık gösterir?",
+        "answer": "Disiplin cezaları ile ilgili itirazlar ve özlük hakları davaları gibi durumlarda, yetkili mahkeme ilgilinin görevli olduğu yer idare mahkemesidir; ancak özel kanunların hükümleri saklıdır.",
+        "question_type": "Analytical",
+        "source": "İYUK Madde 33",
+        "source_article": "<Madde 33 – 1. (Değişik: 5/4/1990-3622/12 md.) Kam"
+      },
+      {
+        "question": "İmar, kamulaştırma ve yıkım gibi taşınmaz mallarla ilgili mevzuatın uygulanmasında yetkili mahkeme nerededir?",
+        "answer": "Yetkili mahkeme, taşınmaz malların bulunduğu yer idare mahkemesidir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 34",
+        "source_article": "<Madde 34 – (Değişik: 10/6/1994-4001/16 md.) 1. İm"
+      },
+      {
+        "question": "Köy, belediye ve özel idareleri ilgilendiren davalarda hangi mahkeme yetkilidir?",
+        "answer": "Yetkili mahkeme, mülki idari birimin, köy, belediye veya mahallenin bulunduğu yer idare mahkemesidir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 34",
+        "source_article": "<Madde 34 – (Değişik: 10/6/1994-4001/16 md.) 1. İm"
+      },
+      {
+        "question": "Taşınmaz mallarla ilgili idari davalarda yetkili mahkemenin rolü nedir?",
+        "answer": "Yetkili mahkeme, taşınmaz mallara dair hukuki meselelerin çözümlenmesinde yetki sahibidir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 34",
+        "source_article": "<Madde 34 – (Değişik: 10/6/1994-4001/16 md.) 1. İm"
+      },
+      {
+        "question": "Taşınmaz mallarla ilgili davalarda yetkili mahkemenin, bu davaların çözümünde nasıl bir önemi vardır?",
+        "answer": "Yetkili mahkeme, taşınmazların bulunduğu yerin idare mahkemesi olduğu için yerel hukukun uygulanmasını sağlar.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 34",
+        "source_article": "<Madde 34 – (Değişik: 10/6/1994-4001/16 md.) 1. İm"
+      },
+      {
+        "question": "Köy ve belediyelerle ilgili mevzuatın uygulanmasında hangi adımlar izlenmelidir?",
+        "answer": "Mülki idari birimin yer mahkemesine başvurularak ilgili mevzuatın uygulanması sağlanmalıdır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 34",
+        "source_article": "<Madde 34 – (Değişik: 10/6/1994-4001/16 md.) 1. İm"
+      },
+      {
+        "question": "Taşınır mallara ilişkin davalarda yetkili mahkeme neresidir?",
+        "answer": "Taşınır mallara ilişkin davalarda yetkili mahkeme, taşınır malın bulunduğu yer idare mahkemesidir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 35",
+        "source_article": "<Madde 35 – (Değişik: 5/4/1990-3622/13 md.) Taşını"
+      },
+      {
+        "question": "İYUK'un 35. maddesi neden taşınır mallara ilişkin davalarda mahkeme yetkisini belirler?",
+        "answer": "İYUK'un 35. maddesi, taşınır mallarla ilgili davaların hangi mahkemede açılacağını netleştirerek yargı sürecini düzenlemekte ve hukuki belirsizlikleri ortadan kaldırmaktadır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 35",
+        "source_article": "<Madde 35 – (Değişik: 5/4/1990-3622/13 md.) Taşını"
+      },
+      {
+        "question": "Taşınır malın bulunduğu yer idare mahkemesi olarak belirtilmesinin tarihi nedir?",
+        "answer": "Bu düzenleme 5/4/1990 tarihinde, 3622 sayılı maddeyle yapılmıştır.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 35",
+        "source_article": "<Madde 35 – (Değişik: 5/4/1990-3622/13 md.) Taşını"
+      },
+      {
+        "question": "Taşınır mallara ilişkin davalarda yetkili mahkemenin yerinin belirlenmesinin sonuçları nelerdir?",
+        "answer": "Bu durum, davaların hızlı ve etkili bir şekilde görülmesini sağlarken, aynı zamanda taşınır malların bulunduğu yerin hukuki süreçlerdeki önemini artırır.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 35",
+        "source_article": "<Madde 35 – (Değişik: 5/4/1990-3622/13 md.) Taşını"
+      },
+      {
+        "question": "Taşınır mal ile ilgili bir dava açarken hangi mahkemeye başvurulmalıdır?",
+        "answer": "Taşınır malın bulunduğu yer idare mahkemesine başvurulmalıdır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 35",
+        "source_article": "<Madde 35 – (Değişik: 5/4/1990-3622/13 md.) Taşını"
+      },
+      {
+        "question": "Tam yargı davalarında yetkili mahkeme nasıl belirlenir?",
+        "answer": "Yetkili mahkeme, zararı doğuran idari uyuşmazlığı çözümleyerek, farklı kriterlere göre sırasıyla belirlenir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 36",
+        "source_article": "<Madde 36 – İdari sözleşmelerden doğanlar dışında "
+      },
+      {
+        "question": "Tam yargı davalarında mahkeme yetkisi hangi durumlara göre değişiklik gösterir?",
+        "answer": "Mahkeme yetkisi, zararı doğuran idari uyuşmazlık, hizmetin görüldüğü yer veya davacının ikametgahı gibi kriterlere göre değişir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 36",
+        "source_article": "<Madde 36 – İdari sözleşmelerden doğanlar dışında "
+      },
+      {
+        "question": "İdari sözleşmeler dışındaki tam yargı davalarının yetkili mahkemesi kimdir?",
+        "answer": "İdari mahkeme, tam yargı davalarında yetkili mahkemedir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 36",
+        "source_article": "<Madde 36 – İdari sözleşmelerden doğanlar dışında "
+      },
+      {
+        "question": "Tam yargı davalarında zararı doğuran idari uyuşmazlık nasıl çözülür?",
+        "answer": "Zararı doğuran idari uyuşmazlık, yetkili mahkeme tarafından çözülür.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 36",
+        "source_article": "<Madde 36 – İdari sözleşmelerden doğanlar dışında "
+      },
+      {
+        "question": "Tam yargı davasında davacının ikametgahı hangi durumda mahkeme yetkisini belirler?",
+        "answer": "Eğer zararın doğduğu yer diğer kriterler içerisinde yoksa, davacının ikametgahı yetkili mahkeme olarak belirlenir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 36",
+        "source_article": "<Madde 36 – İdari sözleşmelerden doğanlar dışında "
+      },
+      {
+        "question": "Bu kanuna göre vergi uyuşmazlıklarında yetkili mahkeme neresidir?",
+        "answer": "Uyuşmazlığın konusuna göre, Dairenin bulunduğu yerdeki vergi mahkemesidir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 37",
+        "source_article": "<Madde 37 – Bu Kanununa göre vergi uyuşmazlıkların"
+      },
+      {
+        "question": "Vergi uyuşmazlıkları neden ihtiyaç duyulan hukuki süreçlerdendir?",
+        "answer": "Vergi uyuşmazlıkları, vergi, resim ve harç gibi mali yükümlülüklerin doğru bir şekilde uygulanmaması durumunda ortaya çıkar ve hukukun üstünlüğünü sağlamak adına çözüme kavuşturulması gerekir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 37",
+        "source_article": "<Madde 37 – Bu Kanununa göre vergi uyuşmazlıkların"
+      },
+      {
+        "question": "Gümrük Kanununa göre alınması gereken vergilerle ilgili uyuşmazlıklar hangi mahkemede değerlendirilmektedir?",
+        "answer": "Bu tür uyuşmazlıklar, vergi mahkemesinde değerlendirilir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 37",
+        "source_article": "<Madde 37 – Bu Kanununa göre vergi uyuşmazlıkların"
+      },
+      {
+        "question": "Vergi uyuşmazlıklarında yetkili mahkemenin belirlenmesinin önemi nedir?",
+        "answer": "Yetkili mahkemenin belirlenmesi, sürecin etkin ve doğru bir şekilde yürütülmesini sağlar, böylece vergi mükellefleri ile devlet arasındaki uyuşmazlıkların adil bir biçimde çözülmesine olanak tanır.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 37",
+        "source_article": "<Madde 37 – Bu Kanununa göre vergi uyuşmazlıkların"
+      },
+      {
+        "question": "Amme Alacaklarının Tahsil Usulu Kanununun uygulanmasında dava konusu işlemi yapan mahkeme hangisidir?",
+        "answer": "Bu işlemi yapan mahkeme vergi mahkemesidir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 37",
+        "source_article": "<Madde 37 – Bu Kanununa göre vergi uyuşmazlıkların"
+      },
+      {
+        "question": "Bağlantılı davalar ne anlama gelir?",
+        "answer": "Bağlantılı davalar, aynı maddi veya hukuki sebepten doğan ve biri hakkında verilecek hükmün diğerini etkileyecek nitelikte olduğu davalardır.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 38",
+        "source_article": "<Madde 38 – 1. (Ek: 10/6/1994-4001/18 md.) Aynı ma"
+      },
+      {
+        "question": "Mahkemelerin bağlantılı davalar hakkında nasıl karar vereceği konusunda genel bir çerçeve nedir?",
+        "answer": "İdare mahkemesi, vergi mahkemesi veya Danıştay, taraflardan birinin isteği üzerine veya doğrudan mahkemece bağlantının varlığına karar verir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 38",
+        "source_article": "<Madde 38 – 1. (Ek: 10/6/1994-4001/18 md.) Aynı ma"
+      },
+      {
+        "question": "Bağlantılı davalardan birinin Danıştayda bulunmasının sonuçları nelerdir?",
+        "answer": "Bağlantılı davalardan birinin Danıştayda bulunması durumunda, dava dosyası Danıştaya gönderilir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 38",
+        "source_article": "<Madde 38 – 1. (Ek: 10/6/1994-4001/18 md.) Aynı ma"
+      },
+      {
+        "question": "Bağlantılı davalar farklı bölge idare mahkemelerinde bulunursa ne olur?",
+        "answer": "Eğer bağlantılı davalar farklı bölge idare mahkemesinin yargı çevresindeki mahkemelerde varsa, dosyalar Danıştaya gönderilir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 38",
+        "source_article": "<Madde 38 – 1. (Ek: 10/6/1994-4001/18 md.) Aynı ma"
+      },
+      {
+        "question": "Bağlantılı davalarda yerel bölge idare mahkemesine gönderilme durumu ne şekildedir?",
+        "answer": "Bağlantılı davalar aynı bölge idare mahkemesinin yargı çerçevesindeki mahkemelerde bulunuyorsa, dosyalar o yer bölge idare mahkemesine gönderilir.",
+        "question_type": "Analytical",
+        "source": "İYUK Madde 38",
+        "source_article": "<Madde 38 – 1. (Ek: 10/6/1994-4001/18 md.) Aynı ma"
+      },
+      {
+        "question": "Danıştayın hangi tür davaları inceleme yetkisi vardır?",
+        "answer": "Danıştay, bağlantılı dava dosyalarını inceleme yetkisine sahiptir ve davalardan biri Danıştayda açılmışsa, bu davaların tümü Danıştayda görülür.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 39",
+        "source_article": "<Madde 39 – 1. Danıştayın dava konusu uyuşmazlığı "
+      },
+      {
+        "question": "Danıştay bağlantı tespit ettiğinde hangi işlemleri yapar?",
+        "answer": "Danıştay bağlantı tespit ederse, davaların tümünü kendi yetkisi altında değerlendirir ya da davaların ayrıca görevli mahkemelere yönlendirilmesini sağlar.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 39",
+        "source_article": "<Madde 39 – 1. Danıştayın dava konusu uyuşmazlığı "
+      },
+      {
+        "question": "Bağlantı davalarının çözüm süreci nasıl işlemektedir?",
+        "answer": "Bağlantılı davalar, Danıştay tarafından incelenerek ya Danıştayda ya da yetkili diğer mahkemelerde çözülmektedir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 39",
+        "source_article": "<Madde 39 – 1. Danıştayın dava konusu uyuşmazlığı "
+      },
+      {
+        "question": "Danıştay, dosyaların geri gönderileceğine karar verirse ne olur?",
+        "answer": "Eğer Danıştay bağlantı bulunmadığına karar verirse, dosyalar ilgili mahkemelere geri gönderilir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 39",
+        "source_article": "<Madde 39 – 1. Danıştayın dava konusu uyuşmazlığı "
+      },
+      {
+        "question": "Danıştay hangi durumlarda ilgili mahkemeye durumu bildirir?",
+        "answer": "Danıştay, davaların çözümünün ayrı bölge idare mahkemesi veya vergi mahkemelerine girdiği durumlarda, yetkili mahkemeyi belirleyerek durumu bildirir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 39",
+        "source_article": "<Madde 39 – 1. Danıştayın dava konusu uyuşmazlığı "
+      },
+      {
+        "question": "Bölge idare mahkemesi bağlantılı dava dosyalarını ne zaman inceler?",
+        "answer": "Bölge idare mahkemesi bağlantılı dava dosyalarını öncelikle ve ivedilikle inceler.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 40",
+        "source_article": "<Madde 40 – 1.Bölge idare mahkemesi bağlantılı dav"
+      },
+      {
+        "question": "Bölge idare mahkemesi bağlantı olduğuna karar verirse ne yapar?",
+        "answer": "Bağlantı olduğuna karar verirse dosyalar yetkili mahkemeye gönderilir ve durum diğer mahkemeye duyurulur.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 40",
+        "source_article": "<Madde 40 – 1.Bölge idare mahkemesi bağlantılı dav"
+      },
+      {
+        "question": "Bağlantı olmadığına dair bir karar verilirse dosyaların akıbeti nedir?",
+        "answer": "Bağlantı olmadığına dair bir karar verilirse, dosyalar ilgili mahkemelere geri gönderilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 40",
+        "source_article": "<Madde 40 – 1.Bölge idare mahkemesi bağlantılı dav"
+      },
+      {
+        "question": "Bölge idare mahkemesinin kararı hangi durumları kapsar?",
+        "answer": "Bölge idare mahkemesinin kararı bağlantı olup olmaması durumlarını kapsar.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 40",
+        "source_article": "<Madde 40 – 1.Bölge idare mahkemesi bağlantılı dav"
+      },
+      {
+        "question": "Bölge idare mahkemesi neden yetkili mahkemeye dosyaları gönderir?",
+        "answer": "Bağlantı bulunursa yetkili mahkemeye dosyaları göndermenin nedeni, davaların doğru ve yetkili mahkemede devam etmesini sağlamaktır.",
+        "question_type": "Reflective",
+        "source": "İYUK Madde 40",
+        "source_article": "<Madde 40 – 1.Bölge idare mahkemesi bağlantılı dav"
+      },
+      {
+        "question": "Bağlantı iddiaları mahkemelerce kabul edilmezse taraflara ne tebliğ edilir?",
+        "answer": "Taraflara ara kararı tebliğ edilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 41",
+        "source_article": "<Madde 41 – Bağlantı iddiaları mahkemelerce kabul "
+      },
+      {
+        "question": "Tarafların itiraz için hangi süre zarfında başvuruda bulunması gerekir?",
+        "answer": "Tebliğ tarihini izleyen onbeş gün içerisinde başvuruda bulunmaları gerekir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 41",
+        "source_article": "<Madde 41 – Bağlantı iddiaları mahkemelerce kabul "
+      },
+      {
+        "question": "Taraflar hangi mahkemelere başvuru yapabilirler?",
+        "answer": "Aynı yargı çevresindeki mahkemeler için yer bölge idare mahkemesine, 38. maddenin 2 ve 3. fıkrasındaki durumlar için Danıştay’a başvurabilirler.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 41",
+        "source_article": "<Madde 41 – Bağlantı iddiaları mahkemelerce kabul "
+      },
+      {
+        "question": "Bölge idare mahkemesi veya Danıştay görevi dairesi, başvuru üzerine ne yapar?",
+        "answer": "Durumu yukarıdaki maddelerde yazılı usullere göre inceler ve karara bağlar.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 41",
+        "source_article": "<Madde 41 – Bağlantı iddiaları mahkemelerce kabul "
+      },
+      {
+        "question": "Madde 41'in temel amacı nedir?",
+        "answer": "Bağlantı iddialarının mahkemelerce nasıl değerlendirileceğini ve tarafların itiraz süreçlerini düzenlemektir.",
+        "question_type": "Summarizing",
+        "source": "İYUK Madde 41",
+        "source_article": "<Madde 41 – Bağlantı iddiaları mahkemelerce kabul "
+      },
+      {
+        "question": "Bağlantının varlığı yolunda hangi mahkemeler karar verebilir?",
+        "answer": "İdare mahkemeleri, vergi mahkemeleri, bölge idare mahkemesi ve Danıştay, bağlantının varlığına ilişkin karar verebilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 42",
+        "source_article": "<Madde 42 – 1. Bağlantının varlığı yolunda idare v"
+      },
+      {
+        "question": "Bağlantı işlemleri sonuçlandıktan sonra ne olur?",
+        "answer": "Bağlantıya ilişkin işlemler sonuçlandıktan sonra davalara bakmakla yetkili kılınan mahkeme veya Danıştay, davalara bırakıldığı yerden devam eder.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 42",
+        "source_article": "<Madde 42 – 1. Bağlantının varlığı yolunda idare v"
+      },
+      {
+        "question": "Bölge idare mahkemesi ve Danıştay kararlarının önemi nedir?",
+        "answer": "Bölge idare mahkemesi ve Danıştay’ın bağlantının bulunup bulunmadığına dair kararları kesindir ve bu kararlar sonrasında usuli işlemler durur.",
+        "question_type": "Analytical",
+        "source": "İYUK Madde 42",
+        "source_article": "<Madde 42 – 1. Bağlantının varlığı yolunda idare v"
+      },
+      {
+        "question": "Eğer bağlantı yoksa, mahkemeların işlemleri nasıl devam eder?",
+        "answer": "Eğer bağlantı yoksa, usuli işlemler durur, ancak bağlantı sonucunda hangi mahkeme yetkilendirilirse, o mahkeme davalara kaldığı yerden devam eder.",
+        "question_type": "Hypothetical",
+        "source": "İYUK Madde 42",
+        "source_article": "<Madde 42 – 1. Bağlantının varlığı yolunda idare v"
+      },
+      {
+        "question": "Bağlantıya ilişkin hangi mahkemelerin kararları kesindir?",
+        "answer": "Bölge idare mahkemesi ve Danıştay’ın bağlantıya ilişkin kararları kesindir.",
+        "question_type": "Listing",
+        "source": "İYUK Madde 42",
+        "source_article": "<Madde 42 – 1. Bağlantının varlığı yolunda idare v"
+      },
+      {
+        "question": "İdare ve vergi mahkemeleri hangi durumlarda dosyayı Danıştaya veya diğer mahkemelere göndermektedir?",
+        "answer": "İdare ve vergi mahkemeleri, görevsizlik veya yetkisizlik sebebiyle davanın reddine karar verdiklerinde dosyayı Danıştaya veya görevli ve yetkili idare veya vergi mahkemesine gönderirler.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 43",
+        "source_article": "<Madde 43 – 1. İdare ve vergi mahkemeleri, idari y"
+      },
+      {
+        "question": "Danıştay, görevsizlik sebebiyle gönderilen dosyayı hangi koşullar altında yetkili mahkemeye göndermeye karar verir?",
+        "answer": "Danıştay, davayı görevi içinde görmezse, dosyanın yetkili ve görevli mahkemeye gönderilmesine karar verir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 43",
+        "source_article": "<Madde 43 – 1. İdare ve vergi mahkemeleri, idari y"
+      },
+      {
+        "question": "Görev ve yetki uyuşmazlıkları nasıl çözülmektedir?",
+        "answer": "Görev ve yetki uyuşmazlıkları, gönderilen mahkeme kendisini görevsiz veya yetkisiz gördüğünde ve uyuşmazlık aynı bölge idare mahkemesinin yargı çevresinde ise, bölge idare mahkemesince, aksi halde Danıştayca çözümlenir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 43",
+        "source_article": "<Madde 43 – 1. İdare ve vergi mahkemeleri, idari y"
+      },
+      {
+        "question": "Danıştay ve bölge idare mahkemesinin verdiği görev ve yetki uyuşmazlıkları ile ilgili kararların önemi nedir?",
+        "answer": "Danıştay ve bölge idare mahkemesince verilen kararlar kesindir, yani itiraz edilemez.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 43",
+        "source_article": "<Madde 43 – 1. İdare ve vergi mahkemeleri, idari y"
+      },
+      {
+        "question": "Görevsizlik veya yetkisizlik nedeniyle yeniden dava açılması durumunda ne olur?",
+        "answer": "Bu madde hükümleri gereğince verilen karar ile görevli ve yetkili kılınan mahkeme için yeniden dava açılması halinde harç alınmaz.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 43",
+        "source_article": "<Madde 43 – 1. İdare ve vergi mahkemeleri, idari y"
+      },
+      {
+        "question": "Yetkili mahkemenin bir davaya bakmasına engel olan durumlar nelerdir?",
+        "answer": "Yetkili mahkemenin bir davaya bakmasına fiili veya hukuki engellerin çıkması, yargı çevresi sınırlarında tereddüt yaşanması veya iki mahkemenin de aynı davaya bakmaya yetkili olduğu kararının verilmesi bu engeller arasındadır.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 44",
+        "source_article": "<Madde 44 – 1. Yetkili mahkemenin bir davaya bakma"
+      },
+      {
+        "question": "Dava dosyalarının merci tayini için hangi mahkemelere gönderileceği durumları nelerdir?",
+        "answer": "Uyuşmazlığın aynı yargı çevresindeki mahkemeler arasında çıkması durumunda bölge idare mahkemesine, diğer hallerde ise Danıştay'a dava dosyaları gönderilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 44",
+        "source_article": "<Madde 44 – 1. Yetkili mahkemenin bir davaya bakma"
+      },
+      {
+        "question": "Danıştay ve bölge idare mahkemesinin işlevi nedir?",
+        "answer": "Danıştay ve bölge idare mahkemesi, ilgili dava için görevli ve yetkili mahkemeyi kararlaştırmakla yükümlüdür.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 44",
+        "source_article": "<Madde 44 – 1. Yetkili mahkemenin bir davaya bakma"
+      },
+      {
+        "question": "Dava dosyalarının merci tayini sırasında hangi yetkili merci karar verir?",
+        "answer": "Dava dosyalarının merci tayini sırasında yetkili merciler Danıştay ve bölge idare mahkemesidir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 44",
+        "source_article": "<Madde 44 – 1. Yetkili mahkemenin bir davaya bakma"
+      },
+      {
+        "question": "Danıştay ve bölge idare mahkemesinin vereceği kararların niteliği nedir?",
+        "answer": "Danıştay ve bölge idare mahkemesinin bu konuda vereceği kararlar kesindir.",
+        "question_type": "Summarizing",
+        "source": "İYUK Madde 44",
+        "source_article": "<Madde 44 – 1. Yetkili mahkemenin bir davaya bakma"
+      },
+      {
+        "question": "İdare ve vergi mahkemelerinin kararlarına karşı istinaf başvurusu için hangi süre geçerlidir?",
+        "answer": "Mahkemenin bulunduğu yargı çevresindeki bölge idare mahkemesine, kararın tebliğinden itibaren otuz gün içinde istinaf başvurusu yapılabilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 45",
+        "source_article": "<Madde 45 – (Değişik: 18/6/2014-6545/19 md.) 1. İd"
+      },
+      {
+        "question": "İstinaf başvurusu nasıl bir süreçten geçmektedir?",
+        "answer": "İstinaf başvurusu, temyiz şekil ve usullerine tabidir. Dilekçelerdeki hitap ve istekle bağlı kalınmaksızın dosya bölge idare mahkemesine gönderilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 45",
+        "source_article": "<Madde 45 – (Değişik: 18/6/2014-6545/19 md.) 1. İd"
+      },
+      {
+        "question": "Bölge idare mahkemesi kararını hukuka uygun bulduğunda ne yapar?",
+        "answer": "Bölge idare mahkemesi, yaptığı incelemede ilk derece mahkemesi kararını hukuka uygun bulursa istinaf başvurusunun reddine karar verir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 45",
+        "source_article": "<Madde 45 – (Değişik: 18/6/2014-6545/19 md.) 1. İd"
+      },
+      {
+        "question": "İstinaf başvurusu sonucu hangi durumlarda ilk derece mahkemesi kararının kaldırılması söz konusu olur?",
+        "answer": "Bölge idare mahkemesi, ilk derece mahkemesi kararını hukuka uygun bulmadığı takdirde istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının kaldırılmasına karar verir.",
+        "question_type": "Analytical",
+        "source": "İYUK Madde 45",
+        "source_article": "<Madde 45 – (Değişik: 18/6/2014-6545/19 md.) 1. İd"
+      },
+      {
+        "question": "Bölge idare mahkemelerinin temyize açık olmayan kararları ne sonuç doğurur?",
+        "answer": "Bölge idare mahkemelerinin temyize açık olmayan kararları kesindir ve dosyayla birlikte kararı veren ilk derece mahkemesine gönderilir.",
+        "question_type": "Summarizing",
+        "source": "İYUK Madde 45",
+        "source_article": "<Madde 45 – (Değişik: 18/6/2014-6545/19 md.) 1. İd"
+      },
+      {
+        "question": "Danıştayın temyiz edilebilir kararlarının süresi nedir?",
+        "answer": "Danıştayda, kararın tebliğinden itibaren otuz gün içinde temyiz edilebilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 46",
+        "source_article": "<Madde 46 – (Değişik: 18/6/2014-6545/20 md.) Danış"
+      },
+      {
+        "question": "Temyize konu olabilecek iptal davaları hangi işlemlere karşı açılabilir?",
+        "answer": "Düzenleyici işlemlere, vergi davalarına, kamu görevinden çıkarılmalara ve benzeri durumlara karşı açılan iptal davaları temyize konu olabilir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 46",
+        "source_article": "<Madde 46 – (Değişik: 18/6/2014-6545/20 md.) Danış"
+      },
+      {
+        "question": "Danıştayın temyiz yetkisi hangi yasal çerçevelere bağlıdır?",
+        "answer": "Danıştayın temyiz yetkisi, ilgili yasal düzenlemeler ve başka kanunlardaki hükümlere rağmen geçerlidir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 46",
+        "source_article": "<Madde 46 – (Değişik: 18/6/2014-6545/20 md.) Danış"
+      },
+      {
+        "question": "Konusu dokuz yüz yirmi bin Türk lirasını aşan vergi davalarına karşı hangi işlem yapılabilir?",
+        "answer": "Bu tür vergi davalarına karşı iptal davası açabilir ve Danıştayda temyiz edebiliriz.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 46",
+        "source_article": "<Madde 46 – (Değişik: 18/6/2014-6545/20 md.) Danış"
+      },
+      {
+        "question": "İptal davaları hangi tür işlemler için açılabilir?",
+        "answer": "Müşterek kararnameyle yapılan atamalar, imar planları, doğal kaynaklar gibi birçok işlem için iptal davaları açılabilir.",
+        "question_type": "Listing",
+        "source": "İYUK Madde 46",
+        "source_article": "<Madde 46 – (Değişik: 18/6/2014-6545/20 md.) Danış"
+      },
+      {
+        "question": "Temyiz istemleri nasıl yapılır?",
+        "answer": "Temyiz istemleri Danıştay Başkanlığına hitaben yazılmış dilekçeler ile yapılır.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 48",
+        "source_article": "<Madde 48 – (Değişik: 5/4/1990-3622/17 md.) 1. Tem"
+      },
+      {
+        "question": "Temyiz dilekçelerinin düzenlenmesi neden önemlidir?",
+        "answer": "Temyiz dilekçelerinin 3 üncü madde esaslarına göre düzenlenmesi gereklidir; aksi halde eksikliklerin tamamlanması için süre verilmektedir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 48",
+        "source_article": "<Madde 48 – (Değişik: 5/4/1990-3622/17 md.) 1. Tem"
+      },
+      {
+        "question": "Temyiz dilekçesinin eksik olması durumunda ne olur?",
+        "answer": "Temyiz dilekçesi eksikse, karar veren mahkeme, eksikliklerin onbeş gün içinde tamamlanması için ilgiliye tebligat yapar; tamamlanmazsa temyiz isteminin bulunulmamış sayılmasına karar verir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 48",
+        "source_article": "<Madde 48 – (Değişik: 5/4/1990-3622/17 md.) 1. Tem"
+      },
+      {
+        "question": "Temyiz dilekçesi verilmeden harçların ödenmemesi durumunda ne yapılmalıdır?",
+        "answer": "Harç ve giderlerin ödenmemesi halinde, merci tarafından verilen yedi gün içinde tamamlanması aksi halde temyizden vazgeçilmiş sayılacağı hususu temyiz edene yazılı olarak bildirilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 48",
+        "source_article": "<Madde 48 – (Değişik: 5/4/1990-3622/17 md.) 1. Tem"
+      },
+      {
+        "question": "Bir kişi temyiz dilekçesi verdikten sonra süre içinde harçlarını ödemezse ne olur?",
+        "answer": "Süre içinde harç ve giderler tamamlanmadığı takdirde, ilgili merci, kararın temyiz edilmemiş sayılmasına karar verir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 48",
+        "source_article": "<Madde 48 – (Değişik: 5/4/1990-3622/17 md.) 1. Tem"
+      },
+      {
+        "question": "Danıştay, temyiz incelemesi sonucunda kararın hukuka uygun bulunması durumunda ne yapar?",
+        "answer": "Danıştay, kararı onar ve eğer gerekçeyi doğru veya eksik bulursa, gerekçeyi değiştirerek onar.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 49",
+        "source_article": "<Madde 49 – (Değişik: 18/6/2014-6545/22 md.) 1. Te"
+      },
+      {
+        "question": "Temyiz incelemesi sırasında Danıştay'ın kararı bozan sebepler nelerdir?",
+        "answer": "Görev ve yetki dışında bir işe bakılması, hukuka aykırı karar verilmesi, ve usul hükümlerinin uygulanmasında hatalar veya eksikliklerin bulunması gibi sebepler vardır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 49",
+        "source_article": "<Madde 49 – (Değişik: 18/6/2014-6545/22 md.) 1. Te"
+      },
+      {
+        "question": "İlk derece mahkemesi olarak Danıştay’ın bakacağı davalarda temyiz incelemesi nasıl yapılır?",
+        "answer": "Bu davaların temyiz incelemesinde, İYUK Madde 49 ile ısrar hariç 50. madde hükümleri kıyasen uygulanır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 49",
+        "source_article": "<Madde 49 – (Değişik: 18/6/2014-6545/22 md.) 1. Te"
+      },
+      {
+        "question": "Temyiz incelemesi sonucunda bir kararın kısmen onanması ve kısmen bozulması durumunda hangi bilgiler belirtilir?",
+        "answer": "Kesinleşen kısım Danıştay kararında belirtilir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 49",
+        "source_article": "<Madde 49 – (Değişik: 18/6/2014-6545/22 md.) 1. Te"
+      },
+      {
+        "question": "Danıştay, bir davanın temyiz incelemesinde kararı veren veya karara katılan hâkim neden görev alamaz?",
+        "answer": "Temyiz incelemesinde kararı veren veya katılan hâkim, aynı davanın temyiz incelemesinde görev alamaz.",
+        "question_type": "Reflective",
+        "source": "İYUK Madde 49",
+        "source_article": "<Madde 49 – (Değişik: 18/6/2014-6545/22 md.) 1. Te"
+      },
+      {
+        "question": "Temyiz incelemesi sonucunda verilen karar nereye gönderilir?",
+        "answer": "Temyiz incelemesi sonucunda verilen karar, dosyayla birlikte kararı veren mercie gönderilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 50",
+        "source_article": "<Madde 50 – (Değişik: 18/6/2014-6545/23 md.) 1. Te"
+      },
+      {
+        "question": "Danıştayın bozma kararına uyulması durumunda temyiz incelemesi nasıl yapılır?",
+        "answer": "Danıştayın bozma kararına uyulması durumunda, bu kararın temyiz incelemesi bozma kararına uygunlukla sınırlı olarak yapılır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 50",
+        "source_article": "<Madde 50 – (Değişik: 18/6/2014-6545/23 md.) 1. Te"
+      },
+      {
+        "question": "Danıştayın bozma kararına uyulmadığı takdirde ne olur?",
+        "answer": "Danıştayın bozma kararına uyulmadığı takdirde, bölge idare mahkemesi kararında ısrar edebilir ve bu ısrar kararının temyizi Danıştay tarafından incelenir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 50",
+        "source_article": "<Madde 50 – (Değişik: 18/6/2014-6545/23 md.) 1. Te"
+      },
+      {
+        "question": "Bozma kararı üzerine ilgili merci ne yapar?",
+        "answer": "Bozma kararı üzerine ilgili merci, dosyayı öncelikle inceler ve gerekli tahkik işlemlerini tamamlayarak yeniden karar verir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 50",
+        "source_article": "<Madde 50 – (Değişik: 18/6/2014-6545/23 md.) 1. Te"
+      },
+      {
+        "question": "Danıştay kararlarına uyulması zorunlu mudur?",
+        "answer": "Evet, Danıştay İdari ve Vergi Dava Daireleri Kurulları kararlarına uyulması zorunludur.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 50",
+        "source_article": "<Madde 50 – (Değişik: 18/6/2014-6545/23 md.) 1. Te"
+      },
+      {
+        "question": "İdare ve vergi mahkemeleri ile bölge idare mahkemelerinin hangi tür kararları, bağımsız olarak temyiz edilebilir?",
+        "answer": "Kesin olarak verdikleri kararlar ile istinaf veya temyiz incelemesinden geçmeden kesinleşmiş bulunan kararlardır.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 51",
+        "source_article": "<Madde 51 – 1. (Değişik: 5/4/1990-3622/20 md.) İda"
+      },
+      {
+        "question": "Kanun yararına temyiz ne anlama gelmektedir?",
+        "answer": "Bir mahkeme kararının hukuka aykırı olduğunun tespit edilmesi durumunda, ilgili bakanlığın veya Başsavcının talebi üzerine yapılan temyizdir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 51",
+        "source_article": "<Madde 51 – 1. (Değişik: 5/4/1990-3622/20 md.) İda"
+      },
+      {
+        "question": "Hangi durumlarda bir kararın kanun yararına temyiz edilebileceği belirtilmiştir?",
+        "answer": "Yürürlükteki hukuka aykırı bir sonucu ifade eden kararlar, ilgili bakanlıkların talebi üzerine veya kendiliğinden temyiz edilebilir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 51",
+        "source_article": "<Madde 51 – 1. (Değişik: 5/4/1990-3622/20 md.) İda"
+      },
+      {
+        "question": "Temyiz isteği kabul edilirse ne olur?",
+        "answer": "Karar kanun yararına bozulur, ancak bozma kararı önceki kesinleşmiş olan merci kararının hukuki sonuçlarını kaldırmaz.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 51",
+        "source_article": "<Madde 51 – 1. (Değişik: 5/4/1990-3622/20 md.) İda"
+      },
+      {
+        "question": "Bozma kararının sonuçları nelerdir?",
+        "answer": "Bozma kararı, ilgili bakanlığa gönderilir ve Resmi Gazete'de yayımlanır.",
+        "question_type": "Listing",
+        "source": "İYUK Madde 51",
+        "source_article": "<Madde 51 – 1. (Değişik: 5/4/1990-3622/20 md.) İda"
+      },
+      {
+        "question": "Temyiz veya istinaf yoluna başvurulması hâlinde mahkeme kararlarının yürütülmesi durdurulur mu?",
+        "answer": "Hayır, temyiz veya istinaf başvurusu mahkeme kararlarının yürütülmesini durdurmaz.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 52",
+        "source_article": "<Madde 52 – 1. (Değişik: 5/4/1990-3622/21 md.) Tem"
+      },
+      {
+        "question": "Temyiz ve istinaf incelemesi sırasında yürütmenin durdurulması istemlerine ilişkin verilen kararların niteliği nedir?",
+        "answer": "Temyiz ve istinaf incelemesi sırasında yürütmenin durdurulması istemleri hakkında verilen kararlar kesindir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 52",
+        "source_article": "<Madde 52 – 1. (Değişik: 5/4/1990-3622/21 md.) Tem"
+      },
+      {
+        "question": "Mahkeme kararlarının teminat karşılığında yürütülmesinin durdurulmasına kim karar verebilir?",
+        "answer": "Temyiz istemini incelemeye yetkili Danıştay dava dairesi veya istinaf başvurusunu incelemeye yetkili bölge idare mahkemesi bu durdurmaya karar verebilir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 52",
+        "source_article": "<Madde 52 – 1. (Değişik: 5/4/1990-3622/21 md.) Tem"
+      },
+      {
+        "question": "İptal davalarında teminat istenilmesinin anlamı nedir?",
+        "answer": "İptal davalarında teminat istenmeyebilir, bu da davanın sürecini etkilemez.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 52",
+        "source_article": "<Madde 52 – 1. (Değişik: 5/4/1990-3622/21 md.) Tem"
+      },
+      {
+        "question": "Dava konusu işlemin yürütmesinin durdurulması için hangi şartların sağlanması gerekmektedir?",
+        "answer": "Dava konusu işlemin yürütmesinin durdurulabilmesi, 27. maddede öngörülen koşulun varlığına bağlıdır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 52",
+        "source_article": "<Madde 52 – 1. (Değişik: 5/4/1990-3622/21 md.) Tem"
+      },
+      {
+        "question": "Yargılamanın yenilenmesi için hangi sebepler geçerlidir?",
+        "answer": "Yargılamanın yenilenmesi, zorlayıcı sebepler veya lehine karar verilen tarafın eyleminden doğan sebepler gibi çeşitli durumlar nedeniyle istenebilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 53",
+        "source_article": "<Madde 53 – 1. (Değişik birinci cümle: 5/4/1990-36"
+      },
+      {
+        "question": "Yargılamanın yenilenmesi talep edebilmenin temel koşulları nelerdir?",
+        "answer": "Kararın verilmesinden sonra elde edilen belgelerin, sahte olduğu belirlenen ilamların veya hileli eylemlerin varlığı gibi durumlar, yenileme talebini gerektirebilir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 53",
+        "source_article": "<Madde 53 – 1. (Değişik birinci cümle: 5/4/1990-36"
+      },
+      {
+        "question": "Yargılamanın yenilenmesi sürecinin değerlendirilmesi nasıl yapılır?",
+        "answer": "Yargılamanın yenilenmesi talepleri, esas kararı vermiş olan mahkeme tarafından incelenerek karara bağlanır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 53",
+        "source_article": "<Madde 53 – 1. (Değişik birinci cümle: 5/4/1990-36"
+      },
+      {
+        "question": "Belirli sebepler doğrultusunda yargılamanın yenilenmesi talep edildiğinde neler olabilir?",
+        "answer": "Yargılamanın yenilenmesi, sahte belgelerin keşfi, hileli eylemler veya mahkeme kararlarıyla bozulmuş hükümlerin varlığı gibi sebeplerden kaynaklanabilir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 53",
+        "source_article": "<Madde 53 – 1. (Değişik birinci cümle: 5/4/1990-36"
+      },
+      {
+        "question": "Yargılamanın yenilenmesi süresi nasıl hesaplanmaktadır?",
+        "answer": "Yargılamanın yenilenmesi süresi, dayanılan sebebin gerçekleştiği tarihi izleyen günden başlayarak belirlenir ve her sebep için farklı süreler öngörülmüştür.",
+        "question_type": "Summarizing",
+        "source": "İYUK Madde 53",
+        "source_article": "<Madde 53 – 1. (Değişik birinci cümle: 5/4/1990-36"
+      },
+      {
+        "question": "İsteğin bir diğer daire veya mahkemenin görevine girmesi durumunda karar nasıl verilir?",
+        "answer": "Karar, ilgili daire veya mahkeme tarafından verilir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 55",
+        "source_article": "<Madde 55 – 1. İsteğin ilişkin olduğu konu, diğer "
+      },
+      {
+        "question": "Yargılamanın yenilenmesi talebinde kanunda yazılı sebeplerin varlığı neden önemlidir?",
+        "answer": "Kanunda yazılı sebepler yoksa yargılamanın yenilenmesi talebi reddedilir, bu da adaletin sağlanması açısından kritik bir standardı temsil eder.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 55",
+        "source_article": "<Madde 55 – 1. İsteğin ilişkin olduğu konu, diğer "
+      },
+      {
+        "question": "Yargılamanın yenilenmesi istemlerinde duruşmanın yapılması hangi koşula bağlıdır?",
+        "answer": "Duruşmanın yapılması, görevli daire veya mahkemenin kararına bağlıdır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 55",
+        "source_article": "<Madde 55 – 1. İsteğin ilişkin olduğu konu, diğer "
+      },
+      {
+        "question": "Eğer karşı tarafın savunması alınmazsa ne olur?",
+        "answer": "Karşı tarafın savunması alınmadığında, istekler incelenmez ve davaya karar verilemez.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 55",
+        "source_article": "<Madde 55 – 1. İsteğin ilişkin olduğu konu, diğer "
+      },
+      {
+        "question": "Yargılamanın yenilenmesine dair hangi durumlar saklı kalır?",
+        "answer": "Bu madde ile 53 üncü madde hükümleri saklı kalmak kaydıyla, diğer hükümler uygulanır.",
+        "question_type": "Summarizing",
+        "source": "İYUK Madde 55",
+        "source_article": "<Madde 55 – 1. İsteğin ilişkin olduğu konu, diğer "
+      },
+      {
+        "question": "Madde 56'nın birinci fıkrasında neler belirtilmektedir?",
+        "answer": "Birinci fıkra, davaya bakan daire başkan ve üyelerinin çekinme veya reddi durumunda, bu kişilerin hariç tutulup kurulu tamamlayarak inceleme yapılacağını belirtmektedir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 56",
+        "source_article": "<Madde 56 – 1. Davaya bakmakta olan dava dairesi b"
+      },
+      {
+        "question": "Çekinme veya ret istemlerinin incelenme süreçleri nasıldır?",
+        "answer": "Çekinme veya ret istemleri, idari dava daireleri veya vergi dava daireleri kurullarında incelenir ve kabul edilirse davanın esası hakkında da bu kurullarca karar verilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 56",
+        "source_article": "<Madde 56 – 1. Davaya bakmakta olan dava dairesi b"
+      },
+      {
+        "question": "Çekinen veya reddedilen daire başkan ve üyeleri hangi kurullara katılamaz?",
+        "answer": "Çekinen veya reddedilen başkan ve üyeler, ilgili idari dava daireleri veya vergi dava daireleri kurullarına katılamazlar.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 56",
+        "source_article": "<Madde 56 – 1. Davaya bakmakta olan dava dairesi b"
+      },
+      {
+        "question": "Çekilme veya red isteminde bulunanların sayısının uygunluğu neden önemlidir?",
+        "answer": "Çekilme veya red istemlerinin sayısının çok olması, idari ve vergi dava dairelerinin toplanmasına engel olacağı için uygun sayıda istemde bulunulmalıdır.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 56",
+        "source_article": "<Madde 56 – 1. Davaya bakmakta olan dava dairesi b"
+      },
+      {
+        "question": "İdari Dava Daireleri Kurulu ve Vergi Dava Daireleri Kurulu'nun davaya müdahil olan üye eksiklerini nasıl giderebilir?",
+        "answer": "Üye noksanı diğer dava dairelerinden tamamlanarak giderilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 56",
+        "source_article": "<Madde 56 – 1. Davaya bakmakta olan dava dairesi b"
+      },
+      {
+        "question": "Tek hakimle görülen davalarda hakimin reddi istemi nasıl incelenir?",
+        "answer": "Hayır, reddedilen hakim davaya katılmadan idare veya vergi mahkemesi inceleme yapar.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 57",
+        "source_article": "<Madde 57 – 1. Tek hakimle görülen davalarda hakim"
+      },
+      {
+        "question": "Hakimin reddi istemine ilişkin süreç nasıl işleyecek?",
+        "answer": "İtiraz üzerine veya davaya bakan mahkemeden reddedilen başkan ve üyeler, katılmadıkları mahkeme tarafından incelenir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 57",
+        "source_article": "<Madde 57 – 1. Tek hakimle görülen davalarda hakim"
+      },
+      {
+        "question": "Birden çok başkan ve üyenin reddi istemi nasıl değerlendirilir?",
+        "answer": "İstem, bölge idare mahkemesi tarafından incelenir.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 57",
+        "source_article": "<Madde 57 – 1. Tek hakimle görülen davalarda hakim"
+      },
+      {
+        "question": "Mahkemenin noksan üyesinin tamamlanması durumunda hangi hükümler uygulanır?",
+        "answer": "Diğer bir hakimin görevlendirilmesi ile mahkemenin noksan üyesinin tamamlanması işlemlerinde yukarıdaki hükümler geçerlidir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 57",
+        "source_article": "<Madde 57 – 1. Tek hakimle görülen davalarda hakim"
+      },
+      {
+        "question": "Mahkemelerde hakimin reddi istemine dair hangi aşamalar vardır?",
+        "answer": "İnceleme, reddedilen hakim veya üyenin katılmadığı mahkemelerce yapılır ve Danıştay tarafından gerekli görüldüğünde işin esasına karar verilir.",
+        "question_type": "Summarizing",
+        "source": "İYUK Madde 57",
+        "source_article": "<Madde 57 – 1. Tek hakimle görülen davalarda hakim"
+      },
+      {
+        "question": "Taraflar, idari dava açtıktan sonra delillerin tespitini hangi mahkemelerden talep edebilirler?",
+        "answer": "Taraflar, delillerin tespitini ancak davaya bakan Danıştay, idare ve vergi mahkemelerinden isteyebilirler.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 58",
+        "source_article": "<Madde 58 – 1. Taraflar, idari dava açtıktan sonra"
+      },
+      {
+        "question": "Delillerin tespiti isteminin hangi özellikleri vardır?",
+        "answer": "Delillerin tespiti istemi, ivedilikle karara bağlanır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 58",
+        "source_article": "<Madde 58 – 1. Taraflar, idari dava açtıktan sonra"
+      },
+      {
+        "question": "Davaya bakan Danıştay, delillerin tespitini hangi yollarla gerçekleştirebilir?",
+        "answer": "Danıştay, delillerin tespitini yapması için üyelerden birini görevlendirebilir veya mahalli idari ya da adli yargı mercilerince yaptırılmasına karar verebilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 58",
+        "source_article": "<Madde 58 – 1. Taraflar, idari dava açtıktan sonra"
+      },
+      {
+        "question": "Delillerin tespitinde Danıştay'ın herhangi bir mahkeme ile işbirliği yapabileceği durumu nedir?",
+        "answer": "Danıştay, delillerin tespitini mahalli idari veya adli yargı mercilerince yaptırılmasına karar verebilir, bu da bir işbirliğidir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 58",
+        "source_article": "<Madde 58 – 1. Taraflar, idari dava açtıktan sonra"
+      },
+      {
+        "question": "Delillerin tespitine yönelik süreç ne kadar süre içinde sonuçlanmalıdır?",
+        "answer": "Delillerin tespiti isteği, ivedilikle karara bağlanmalıdır.",
+        "question_type": "Summarizing",
+        "source": "İYUK Madde 58",
+        "source_article": "<Madde 58 – 1. Taraflar, idari dava açtıktan sonra"
+      },
+      {
+        "question": "Danıştay meslek mensuplarına ne tür ödemeler yapılmaktadır?",
+        "answer": "Danıştay meslek mensuplarına gerçek yol giderleri ile görevde geçen günler için net aylık tutarlarının otuzda biri oranında gündelik ödenmektedir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 59",
+        "source_article": "<Madde 59 – 1. Danıştay meslek mensupları ile Danı"
+      },
+      {
+        "question": "Gündeliklerin zorlukları karşılamaması durumunda ne yapılmalıdır?",
+        "answer": "Eğer gündelikler zorunlu giderleri karşılamıyorsa, aradaki fark belgelerle ispatlandığı takdirde ayrıca ödenir, ancak bu ödemeler gündeliklerin yüzde ellisini geçemez.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 59",
+        "source_article": "<Madde 59 – 1. Danıştay meslek mensupları ile Danı"
+      },
+      {
+        "question": "Maddenin yürürlükte olduğu tarihte hangi kanun hükümlerinin uygulanması öngörülmektedir?",
+        "answer": "3717 sayılı Adli Personel ile Devlet Davalarını Takip edenlere Yol Giderleri ve Tazminat Verilmesi ile 492 Sayılı Harçlar Kanununun bir maddesinin yürürlükten kaldırılması hakkında kanun hükümleri uygulanır.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 59",
+        "source_article": "<Madde 59 – 1. Danıştay meslek mensupları ile Danı"
+      },
+      {
+        "question": "Yol giderlerinin hesaplanmasında dikkate alınan oran nedir?",
+        "answer": "Yol giderlerinin hesaplanmasında, görevde geçen günler için net aylık tutarlarının otuzda biri oranı dikkate alınmaktadır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 59",
+        "source_article": "<Madde 59 – 1. Danıştay meslek mensupları ile Danı"
+      },
+      {
+        "question": "Eğer bir Danıştay meslek mensubu görevdeki süresi boyunca zorunlu giderlerini karşılayamazsa, hangi belgeler gerekmektedir?",
+        "answer": "Zorunlu giderleri karşılayamaması durumunda, aradaki farkın belgelere dayalı olmasını şartıyla ek bir ödeme yapılabilir.",
+        "question_type": "Analytical",
+        "source": "İYUK Madde 59",
+        "source_article": "<Madde 59 – 1. Danıştay meslek mensupları ile Danı"
+      },
+      {
+        "question": "Madde 60'a göre hangi mahkemelere ait tebliğ işleri düzenlenmektedir?",
+        "answer": "Danıştay, bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemelerine ait tebliğ işleri düzenlenmektedir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 60",
+        "source_article": "<Madde 60 – (Değişik: 5/4/1990-3622/24 md.) Danışt"
+      },
+      {
+        "question": "Tebligat Kanunu'nun rolü nedir?",
+        "answer": "Tebligat Kanunu, mahkemeler tarafından yapılacak tebliğ işlemlerinin usulünü düzenler.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 60",
+        "source_article": "<Madde 60 – (Değişik: 5/4/1990-3622/24 md.) Danışt"
+      },
+      {
+        "question": "Tebliğlerin ilgililer tarafından peşin ödenmesinin sebebi nedir?",
+        "answer": "Tebliğlerin ilgililer tarafından peşin olarak ödenmesi, işlemlerin hızlı ve güvenli bir şekilde yapılabilmesi için gereklidir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 60",
+        "source_article": "<Madde 60 – (Değişik: 5/4/1990-3622/24 md.) Danışt"
+      },
+      {
+        "question": "Tebligat işlemlerinin nasıl yapılacağına dair adımlar nelerdir?",
+        "answer": "Tebligat işlemleri, Tebligat Kanunu hükümlerine uygun olarak yapılmalı ve ilgili ücretler peşin ödenmelidir.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 60",
+        "source_article": "<Madde 60 – (Değişik: 5/4/1990-3622/24 md.) Danışt"
+      },
+      {
+        "question": "Madde 60'ın yönetim sistemine katkısı nedir?",
+        "answer": "Madde 60, mahkemelerin tebliğ işlemlerini düzenleyerek, hukukun düzgün işleyişini ve taraflar arasında iletişimi sağlamaktadır.",
+        "question_type": "Reflective",
+        "source": "İYUK Madde 60",
+        "source_article": "<Madde 60 – (Değişik: 5/4/1990-3622/24 md.) Danışt"
+      },
+      {
+        "question": "Bölge idare, idare ve vergi mahkemeleri yılın hangi döneminde çalışmaya ara verirler?",
+        "answer": "Bölge idare, idare ve vergi mahkemeleri her yıl bir eylülde başlamak üzere, yirmi temmuzdan otuz bir ağustosa kadar çalışmaya ara verirler.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 61",
+        "source_article": "<Madde 61 – 1. (Değişik: 5/4/1990-3622/25 md.) (De"
+      },
+      {
+        "question": "No-bırakma uygulamasının amacı nedir?",
+        "answer": "No-bırakma uygulaması, yargı çevresindeki mahkemelerin sürekliliğini sağlamak ve işleyişi aksatmamak amacıyla düzenlenmiştir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 61",
+        "source_article": "<Madde 61 – 1. (Değişik: 5/4/1990-3622/25 md.) (De"
+      },
+      {
+        "question": "Bölge idare mahkemelerinin çalışmaya ara verme süresi boyunca nasıl bir yönetim sağlanır?",
+        "answer": "Bölge idare mahkemesi başkanının önerisi üzerine, Hâkimler ve Savcılar Yüksek Kurulunca, nöbetçi mahkeme veya nöbetçi daireler kurularak yönetim sağlanır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 61",
+        "source_article": "<Madde 61 – 1. (Değişik: 5/4/1990-3622/25 md.) (De"
+      },
+      {
+        "question": "Çalışmaya ara verme süresi içinde hangi durumlar geçerli değildir?",
+        "answer": "Çalışmaya ara vermeden yararlanamayanlar ve nöbetçi kalanların yıllık izin hakları saklıdır.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 61",
+        "source_article": "<Madde 61 – 1. (Değişik: 5/4/1990-3622/25 md.) (De"
+      },
+      {
+        "question": "Bu düzenlemelerin yargı sistemine etkileri nelerdir?",
+        "answer": "Bu düzenlemeler, yargı süreçlerinin kesintisiz devam etmesini sağlar, mahkemelerin iş yükünü dengeleyerek adaletin daha hızlı tecelli etmesine katkıda bulunur.",
+        "question_type": "Analytical",
+        "source": "İYUK Madde 61",
+        "source_article": "<Madde 61 – 1. (Değişik: 5/4/1990-3622/25 md.) (De"
+      },
+      {
+        "question": "Nöbetçi mahkemenin çalışmaya ara verme süresi içinde hangi işleri yürüttüğü belirtilmiştir?",
+        "answer": "Nöbetçi mahkeme, yürütmenin durdurulmasına ve delillerin tespitine ait işleri yürütmektedir.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 62",
+        "source_article": "<Madde 62 – Nöbetçi mahkeme çalışmaya ara verme sü"
+      },
+      {
+        "question": "Nöbetçi mahkemelerin amacı nedir?",
+        "answer": "Nöbetçi mahkemelerin amacı, acil durumlarda hızlı bir şekilde hukuki işlemleri gerçekleştirmek ve taraflar arasında adaletin sağlanmasını temin etmektir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 62",
+        "source_article": "<Madde 62 – Nöbetçi mahkeme çalışmaya ara verme sü"
+      },
+      {
+        "question": "Nöbetçi mahkemelerin çalışmaları neden önemlidir?",
+        "answer": "Nöbetçi mahkemelerin çalışmaları, hukukun sürekliliğini sağlamak ve acil işlerin hızlıca çözüme kavuşturulması açısından kritik öneme sahiptir.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 62",
+        "source_article": "<Madde 62 – Nöbetçi mahkeme çalışmaya ara verme sü"
+      },
+      {
+        "question": "Bir davada yürütmenin durdurulmasına karar verilmek isteniyorsa, hangi mahkeme ile iletişime geçilmelidir?",
+        "answer": "Yürütmenin durdurulması talebi için nöbetçi mahkemeye başvurulmalıdır.",
+        "question_type": "Procedural",
+        "source": "İYUK Madde 62",
+        "source_article": "<Madde 62 – Nöbetçi mahkeme çalışmaya ara verme sü"
+      },
+      {
+        "question": "Nöbetçi mahkemenin kapsamı neleri içerir?",
+        "answer": "Nöbetçi mahkeme, yürütmenin durdurulması ve delillerin tespiti gibi işlemleri içermektedir.",
+        "question_type": "Listing",
+        "source": "İYUK Madde 62",
+        "source_article": "<Madde 62 – Nöbetçi mahkeme çalışmaya ara verme sü"
+      },
+      {
+        "question": "Vergi mahkemelerinin göreve başladığı tarihte hangi maddeler yürürlükten kalkar?",
+        "answer": "Vergi Usul Kanununun 379 ila 412 nci madde hükümleri yürürlükten kalkar.",
+        "question_type": "Factual",
+        "source": "İYUK Madde 63",
+        "source_article": "<Madde 63 – Vergi Usul Kanununun Vergi uyuşmazlıkl"
+      },
+      {
+        "question": "Ek Madde 1'de belirtilen parasal sınırların artırılma yöntemi nedir?",
+        "answer": "Parasal sınırlar, bir önceki yıla ilişkin yeniden değerleme oranında artırılarak uygulanır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Madde 63",
+        "source_article": "<Madde 63 – Vergi Usul Kanununun Vergi uyuşmazlıkl"
+      },
+      {
+        "question": "Vergi Usul Kanunu'nda parasal sınırların tespiti için hangi tarih ve madde esas alınır?",
+        "answer": "4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi esas alınır.",
+        "question_type": "Contextual",
+        "source": "İYUK Madde 63",
+        "source_article": "<Madde 63 – Vergi Usul Kanununun Vergi uyuşmazlıkl"
+      },
+      {
+        "question": "Duruşma yapılmasının zorunlu olduğu davalarda hangi parasal sınır dikkate alınır?",
+        "answer": "Davaların açıldığı tarihteki parasal sınır esas alınır.",
+        "question_type": "Causal",
+        "source": "İYUK Madde 63",
+        "source_article": "<Madde 63 – Vergi Usul Kanununun Vergi uyuşmazlıkl"
+      },
+      {
+        "question": "Ek Madde 1'e göre, belirlenen parasal sınırların hangi kısımları dikkate alınmaz?",
+        "answer": "Bin Türk lirasını aşmayan kısımlar dikkate alınmaz.",
+        "question_type": "Listing",
+        "source": "İYUK Madde 63",
+        "source_article": "<Madde 63 – Vergi Usul Kanununun Vergi uyuşmazlıkl"
+      },
+      {
+        "question": "Belediye başkanlarının düşmesi istemine dair süreç nasıl işlemektedir?",
+        "answer": "Belediye başkanlarının düşmesi istemi, meclis başkanvekili savunması onbeş gün içerisinde alındıktan sonra veya savunma verilmediği takdirde sürenin bittiği tarihte tamamlanır.",
+        "question_type": "Procedural",
+        "source": "İYUK Ek Madde 2",
+        "source_article": "<Ek Madde 2 – (Ek: 5/4/1990-3622/26 md.) Belediyel"
+      },
+      {
+        "question": "Belediye başkanlarına karşı yapılan itirazların sonuçlandırılma süresi nedir?",
+        "answer": "İtirazlar bir ay içerisinde sonuçlandırılır ve itiraz üzerine verilen karar kesindir.",
+        "question_type": "Factual",
+        "source": "İYUK Ek Madde 2",
+        "source_article": "<Ek Madde 2 – (Ek: 5/4/1990-3622/26 md.) Belediyel"
+      },
+      {
+        "question": "İdari Dava Daireleri Kuruluna itiraz süreci nasıl başlamaktadır?",
+        "answer": "İtiraz süreci, kararın tebliğini izleyen günden itibaren onbeş gün içinde başlar.",
+        "question_type": "Causal",
+        "source": "İYUK Ek Madde 2",
+        "source_article": "<Ek Madde 2 – (Ek: 5/4/1990-3622/26 md.) Belediyel"
+      },
+      {
+        "question": "Bu düzenlemelerin amacı nedir?",
+        "answer": "Bu düzenlemelerin amacı, belediye başkanlarının ve meclislerin herhangi bir nedenle organlık sıfatlarını kaybetmesi durumunda hukuki süreci düzenlemektir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Ek Madde 2",
+        "source_article": "<Ek Madde 2 – (Ek: 5/4/1990-3622/26 md.) Belediyel"
+      },
+      {
+        "question": "Karar dosyası nasıl verilmektedir?",
+        "answer": "Karar, dosya üzerinden verilir ve yasal süreler bu tarihten itibaren işlemeye başlar.",
+        "question_type": "Analytical",
+        "source": "İYUK Ek Madde 2",
+        "source_article": "<Ek Madde 2 – (Ek: 5/4/1990-3622/26 md.) Belediyel"
+      },
+      {
+        "question": "Ek Madde 3'ün kabul tarihi nedir?",
+        "answer": "Ek Madde 3, 5 Nisan 1990 tarihinde kabul edilmiştir.",
+        "question_type": "Factual",
+        "source": "İYUK Ek Madde 3",
+        "source_article": "<Ek Madde 3 – (Ek: 5/4/1990-3622/26 md.; İptal: An"
+      },
+      {
+        "question": "Ek Madde 3'ün Anayasa Mahkemesi tarafından iptal edilme nedeni nedir?",
+        "answer": "Anayasa Mahkemesi, Ek Madde 3'ü iptal etmiştir çünkü hukuki geçerlilik açısından sorunlu bulunmuştur.",
+        "question_type": "Conceptual",
+        "source": "İYUK Ek Madde 3",
+        "source_article": "<Ek Madde 3 – (Ek: 5/4/1990-3622/26 md.; İptal: An"
+      },
+      {
+        "question": "Ek Madde 3'ün iptali, hukuki süreçler üzerinde ne gibi etkiler yapmıştır?",
+        "answer": "Ek Madde 3'ün iptali, ilgili hukuki süreçlerin geçersiz kılınmasına yol açmış ve yeniden düzenlemelerin yapılmasını zorunlu hale getirmiştir.",
+        "question_type": "Causal",
+        "source": "İYUK Ek Madde 3",
+        "source_article": "<Ek Madde 3 – (Ek: 5/4/1990-3622/26 md.; İptal: An"
+      },
+      {
+        "question": "Ek Madde 3'e göre hukuki bir işlem nasıl gerçekleştirilir?",
+        "answer": "Hukuki işlemler, belirtilen yasalar çerçevesinde ve ilgili mercilere başvurarak gerçekleştirilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Ek Madde 3",
+        "source_article": "<Ek Madde 3 – (Ek: 5/4/1990-3622/26 md.; İptal: An"
+      },
+      {
+        "question": "Ek Madde 3'ün iptali sonucunda hangi yeni düzenlemelerin getirilmesi beklenmektedir?",
+        "answer": "Ek Madde 3'ün iptali sonrasında, hukukun üstünlüğüne ve anayasal hukuka uygun yeni düzenlemelerin yapılması beklenmektedir.",
+        "question_type": "Speculative",
+        "source": "İYUK Ek Madde 3",
+        "source_article": "<Ek Madde 3 – (Ek: 5/4/1990-3622/26 md.; İptal: An"
+      },
+      {
+        "question": "Geçici Madde 1'de hangi tarihe ait bir kanun hükümleri saklıdır?",
+        "answer": "27/10/1980 tarih ve 2324 sayılı Anayasa Düzeni Hakkında Kanun hükümleri saklıdır.",
+        "question_type": "Factual",
+        "source": "İYUK Geçici Madde 1",
+        "source_article": "Geçici Madde 1 – Bu Kanunun uygulanmasında, 27/10/"
+      },
+      {
+        "question": "Geçici Madde 1'in amacı nedir?",
+        "answer": "Geçici Madde 1, belirtilen tarihe kadar yürürlükte olan Anayasa Düzeni Hakkında Kanun hükümlerinin uygulanmasını korumayı amaçlamaktadır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Geçici Madde 1",
+        "source_article": "Geçici Madde 1 – Bu Kanunun uygulanmasında, 27/10/"
+      },
+      {
+        "question": "Neden Geçici Madde 1, 27/10/1980 tarihli kanun hükümlerini saklı tutmaktadır?",
+        "answer": "Bu düzenleme, geçmişte kabul edilen Anayasa Düzeni Hakkında Kanun'un hüküm ve üstünlüklerini devam ettirmek amacıyla yapılmıştır.",
+        "question_type": "Causal",
+        "source": "İYUK Geçici Madde 1",
+        "source_article": "Geçici Madde 1 – Bu Kanunun uygulanmasında, 27/10/"
+      },
+      {
+        "question": "Geçici Madde 1'in uygulanmasında, öncelikle hangi kanuna başvurulması gerekmektedir?",
+        "answer": "Öncelikle 27/10/1980 tarihli ve 2324 sayılı Anayasa Düzeni Hakkında Kanun'a başvurulması gerekmektedir.",
+        "question_type": "Procedural",
+        "source": "İYUK Geçici Madde 1",
+        "source_article": "Geçici Madde 1 – Bu Kanunun uygulanmasında, 27/10/"
+      },
+      {
+        "question": "Geçici Madde 1 hakkında ne gibi sonuçlar çıkarılabilir?",
+        "answer": "Bu madde, yasaların sürekliliğini ve geçmişteki düzenlemelerin etkinliğini koruma amacını taşımaktadır.",
+        "question_type": "Analytical",
+        "source": "İYUK Geçici Madde 1",
+        "source_article": "Geçici Madde 1 – Bu Kanunun uygulanmasında, 27/10/"
+      },
+      {
+        "question": "Yeni Anayasa yürürlüğe girmeden önce Sayıştayla ilgili yasal düzenleme yapılmadığı takdirde yargı kararlarına karşı hangi tür davalar nereye açılabilir?",
+        "answer": "Sayıştayın yargı kararlarına karşı açılan davalar, idari yargı mercilerinin denetimi dışındadır.",
+        "question_type": "Factual",
+        "source": "İYUK Geçici Madde 2",
+        "source_article": "Geçici Madde 2 – Yeni Anayasa yürürlüğe girinceye "
+      },
+      {
+        "question": "Geçici Madde 2'nin içeriği, Sayıştayın yargı kararlarına itiraz süreçlerini nasıl etkilemektedir?",
+        "answer": "Geçici Madde 2, Sayıştayın yargı kararlarına karşı açılan davaların idari yargı denetimi dışında bırakılmasını sağlamakta, bu durum Sayıştayın kararlarına doğrudan mahkeme kanalıyla itiraz edilmesini engellemektedir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Geçici Madde 2",
+        "source_article": "Geçici Madde 2 – Yeni Anayasa yürürlüğe girinceye "
+      },
+      {
+        "question": "Sayıştayla ilgili yasal düzenlemenin geçmişteki durumu nedir ve şu an hangi durumda bulunmaktadır?",
+        "answer": "Sayıştayla ilgili yasal düzenleme, yeni Anayasa yürürlüğe girmediği için mevcut belirsizlik ve yasa boşluğu içindedir.",
+        "question_type": "Contextual",
+        "source": "İYUK Geçici Madde 2",
+        "source_article": "Geçici Madde 2 – Yeni Anayasa yürürlüğe girinceye "
+      },
+      {
+        "question": "Sayıştayın yargı kararlarına karşı açılan davaların idari yargı dışındaki durumunu belirleyen faktör nedir?",
+        "answer": "Yeni Anayasa'nın henüz yürürlüğe girmemesi ve Sayıştayla ilgili bir yasal düzenlemenin yapılmamış olması bu durumu belirlemektedir.",
+        "question_type": "Causal",
+        "source": "İYUK Geçici Madde 2",
+        "source_article": "Geçici Madde 2 – Yeni Anayasa yürürlüğe girinceye "
+      },
+      {
+        "question": "Sayıştay yargı kararlarına yönelik itiraz süreçlerinin gelecekte nasıl şekilleneceği üzerine bir senaryo oluşturun.",
+        "answer": "Yeni Anayasa yürürlüğe girdikten ve Sayıştayla ilgili düzenlemeler yapıldıktan sonra, Sayıştayın yargı kararlarına karşı devletin idari yargı mercilerinin denetimi altına girip girmeyeceği ve bu durumun nasıl bir itiraz mekanizması oluşturacağı belirsizdir.",
+        "question_type": "Speculative",
+        "source": "İYUK Geçici Madde 2",
+        "source_article": "Geçici Madde 2 – Yeni Anayasa yürürlüğe girinceye "
+      },
+      {
+        "question": "Geçici Madde 3'ün tarihi nedir?",
+        "answer": "Geçici Madde 3, 23 Temmuz 1995 tarihinde eklenmiştir.",
+        "question_type": "Factual",
+        "source": "İYUK Geçici Madde 3",
+        "source_article": "Geçici Madde 3 – (Ek: 23/7/1995-4124/1 md.; Mülga:"
+      },
+      {
+        "question": "Geçici Madde 3'ün amacı nedir?",
+        "answer": "Geçici Madde 3, belirli geçiş dönemlerinde hukukun uygulanması ile ilgili düzenlemeler yapmayı amaçlar.",
+        "question_type": "Conceptual",
+        "source": "İYUK Geçici Madde 3",
+        "source_article": "Geçici Madde 3 – (Ek: 23/7/1995-4124/1 md.; Mülga:"
+      },
+      {
+        "question": "Geçici Madde 3'ün yürürlükten kaldırılma nedeni nedir?",
+        "answer": "Geçici Madde 3, 14 Temmuz 2004 tarihinde 5219 sayılı Kanunla yürürlükten kaldırılmıştır.",
+        "question_type": "Causal",
+        "source": "İYUK Geçici Madde 3",
+        "source_article": "Geçici Madde 3 – (Ek: 23/7/1995-4124/1 md.; Mülga:"
+      },
+      {
+        "question": "Geçici Madde 3 gereğince, yürürlükteki düzenlemeler hangi tarihten itibaren geçerli olmaktadır?",
+        "answer": "Geçici Madde 3, yürürlükteki düzenlemelerin belirli bir tarihten itibaren geçerli olmasını sağlar.",
+        "question_type": "Procedural",
+        "source": "İYUK Geçici Madde 3",
+        "source_article": "Geçici Madde 3 – (Ek: 23/7/1995-4124/1 md.; Mülga:"
+      },
+      {
+        "question": "Geçici Madde 3 sonrasında hukukun uygulanışında nasıl bir değişiklik gözlemlenmiştir?",
+        "answer": "Geçici Madde 3 sonrası hukukun uygulanışında, yeni düzenlemelerle birlikte daha belirgin bir yapı kazanılmıştır.",
+        "question_type": "Reflective",
+        "source": "İYUK Geçici Madde 3",
+        "source_article": "Geçici Madde 3 – (Ek: 23/7/1995-4124/1 md.; Mülga:"
+      },
+      {
+        "question": "Geçici Madde 4'ün kapsamındaki uyuşmazlıkların niteliği nedir?",
+        "answer": "Geçici Madde 4, 45 inci maddesinin değişik 1 numaralı fıkrasında belirtilen uyuşmazlıklarla ilgilidir.",
+        "question_type": "Factual",
+        "source": "İYUK Geçici Madde 4",
+        "source_article": "Geçici Madde 4 – (Ek: 8/6/2000-4577/11 md.) Bu Kan"
+      },
+      {
+        "question": "Geçici Madde 4'te verilen nihai kararların temyiz edilebilir olmasının hukuki anlamı nedir?",
+        "answer": "Nihai kararların temyiz edilebilir olması, mahkeme kararlarının üst mahkeme olan Danıştay tarafından denetlenebilmesini sağlar.",
+        "question_type": "Conceptual",
+        "source": "İYUK Geçici Madde 4",
+        "source_article": "Geçici Madde 4 – (Ek: 8/6/2000-4577/11 md.) Bu Kan"
+      },
+      {
+        "question": "Bu madde hangi tarih itibarıyla yürürlüğe girmiştir?",
+        "answer": "Madde, 8/6/2000 tarihinde yürürlüğe girmiştir.",
+        "question_type": "Factual",
+        "source": "İYUK Geçici Madde 4",
+        "source_article": "Geçici Madde 4 – (Ek: 8/6/2000-4577/11 md.) Bu Kan"
+      },
+      {
+        "question": "Geçici Madde 4 kapsamında, yürürlüğe giren değişiklikten önceki kararların durumu nedir?",
+        "answer": "Değişikliğin yürürlüğe girdiği tarihten önce verilen kararlar, Danıştayda temyiz edilebilir.",
+        "question_type": "Causal",
+        "source": "İYUK Geçici Madde 4",
+        "source_article": "Geçici Madde 4 – (Ek: 8/6/2000-4577/11 md.) Bu Kan"
+      },
+      {
+        "question": "Geçici Madde 4'te belirtilen mahkeme kararları, hangi durumda Danıştay tarafından bozulabilir?",
+        "answer": "Mahkemenin verdiği karar, Danıştayın bozma kararı üzerine bozulursa, yeniden temyiz edilebilir.",
+        "question_type": "Procedural",
+        "source": "İYUK Geçici Madde 4",
+        "source_article": "Geçici Madde 4 – (Ek: 8/6/2000-4577/11 md.) Bu Kan"
+      },
+      {
+        "question": "Geçici Madde 5'te belirtilen yargılamanın yenilenmesi istemlerinin süresi nedir?",
+        "answer": "Yargılamanın yenilenmesi istemleri, Kanunun yürürlüğe girdiği tarihten itibaren bir yıl içinde yapılmalıdır.",
+        "question_type": "Factual",
+        "source": "İYUK Geçici Madde 5",
+        "source_article": "Geçici Madde 5 – (Ek: 15/7/2003-4928/7 md.) (İptal"
+      },
+      {
+        "question": "Geçici Madde 5, Avrupa İnsan Hakları Mahkemesi kararları için hangi süreçleri düzenler?",
+        "answer": "Geçici Madde 5, Avrupa İnsan Hakları Mahkemesi kararlarına ilişkin yargılamanın yenilenmesi istemlerini düzenler.",
+        "question_type": "Conceptual",
+        "source": "İYUK Geçici Madde 5",
+        "source_article": "Geçici Madde 5 – (Ek: 15/7/2003-4928/7 md.) (İptal"
+      },
+      {
+        "question": "Geçici Madde 5'te Anayasa Mahkemesi kararının iptal edilme gerekçesi nedir?",
+        "answer": "Anayasa Mahkemesi tarafından iptal edilen ilk cümle, 20/5/2010 tarihli ve E.: 2009/34, K.: 2010/72 sayılı kararla gerçekleştirilmiştir.",
+        "question_type": "Contextual",
+        "source": "İYUK Geçici Madde 5",
+        "source_article": "Geçici Madde 5 – (Ek: 15/7/2003-4928/7 md.) (İptal"
+      },
+      {
+        "question": "Eğer geçici maddenin süresi aşılırsa, ne olur?",
+        "answer": "Eğer süresi aşılırsa, yargılamanın yenilenmesi istemi yapılamaz ve kesinleşmiş kararlar geçerliliğini korur.",
+        "question_type": "Hypothetical",
+        "source": "İYUK Geçici Madde 5",
+        "source_article": "Geçici Madde 5 – (Ek: 15/7/2003-4928/7 md.) (İptal"
+      },
+      {
+        "question": "Geçici Madde 5'in içerdiği maddeler arasında hangi unsurlar ön plandadır?",
+        "answer": "Geçici Madde 5, Avrupa İnsan Hakları Mahkemesi kararları ile yargılamanın yenilenmesi süresi gibi unsurları ön planda tutar.",
+        "question_type": "Listing",
+        "source": "İYUK Geçici Madde 5",
+        "source_article": "Geçici Madde 5 – (Ek: 15/7/2003-4928/7 md.) (İptal"
+      },
+      {
+        "question": "Geçici Madde 6'nın hangi tarihte eklendiği belirtilmektedir?",
+        "answer": "Geçici Madde 6, 2/7/2012 tarihinde eklenmiştir.",
+        "question_type": "Factual",
+        "source": "İYUK Geçici Madde 6",
+        "source_article": "Geçici Madde 6 – (Ek: 2/7/2012-6352/62 md.) 1. Böl"
+      },
+      {
+        "question": "Geçici Madde 6'nın temel işlevi nedir?",
+        "answer": "Geçici Madde 6, bölge idare, idare ve vergi mahkemelerinde evrak büroları oluşturuluncaya kadar dilekçelerin mahkeme başkanı veya hâkim tarafından havale edilmesini düzenler.",
+        "question_type": "Conceptual",
+        "source": "İYUK Geçici Madde 6",
+        "source_article": "Geçici Madde 6 – (Ek: 2/7/2012-6352/62 md.) 1. Böl"
+      },
+      {
+        "question": "Geçici Madde 6'nın uygulanma koşulları nelerdir?",
+        "answer": "Geçici Madde 6, evrak büroları oluşturuluncaya kadar geçerlidir; bu koşul sağlanmadığı sürece uygulama devam eder.",
+        "question_type": "Contextual",
+        "source": "İYUK Geçici Madde 6",
+        "source_article": "Geçici Madde 6 – (Ek: 2/7/2012-6352/62 md.) 1. Böl"
+      },
+      {
+        "question": "Geçici Madde 6'ya göre, hangi mahkeme kararları Danıştay'da temyiz edilebilir?",
+        "answer": "Bu maddeyi ihdas eden Kanunun yayımı tarihinden önce verilen kararlar ile Danıştayın bozma kararı üzerine kararı bozulan mahkemece verilen kararlar temyiz edilebilir.",
+        "question_type": "Causal",
+        "source": "İYUK Geçici Madde 6",
+        "source_article": "Geçici Madde 6 – (Ek: 2/7/2012-6352/62 md.) 1. Böl"
+      },
+      {
+        "question": "Geçici Madde 6 kapsamında evrak büroları ne zaman kurulacaktır?",
+        "answer": "Evrak büroları oluşturuluncaya kadar mevcut düzenleme devam edecektir.",
+        "question_type": "Procedural",
+        "source": "İYUK Geçici Madde 6",
+        "source_article": "Geçici Madde 6 – (Ek: 2/7/2012-6352/62 md.) 1. Böl"
+      },
+      {
+        "question": "Geçici Madde 7, hangi Kanunla ihdas edilmiştir?",
+        "answer": "Geçici Madde 7, 11/4/2013 tarihli ve 6459 sayılı Kanunla ihdas edilmiştir.",
+        "question_type": "Factual",
+        "source": "İYUK Geçici Madde 7",
+        "source_article": "Geçici Madde 7 – (Ek: 11/4/2013-6459/5 md.) 1. Bu "
+      },
+      {
+        "question": "Geçici Madde 7'de belirtilen hükmün kapsamı nedir?",
+        "answer": "Geçici Madde 7, yürürlük tarihinde derdest olan davalarda uygulanacağını belirtmektedir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Geçici Madde 7",
+        "source_article": "Geçici Madde 7 – (Ek: 11/4/2013-6459/5 md.) 1. Bu "
+      },
+      {
+        "question": "Geçici Madde 7, hangi aşamaları kapsar?",
+        "answer": "Geçici Madde 7, kanun yolu aşaması da dâhil olmak üzere derdest olan davaları kapsar.",
+        "question_type": "Contextual",
+        "source": "İYUK Geçici Madde 7",
+        "source_article": "Geçici Madde 7 – (Ek: 11/4/2013-6459/5 md.) 1. Bu "
+      },
+      {
+        "question": "Geçici Madde 7'nin yürürlüğe girmesi davaların seyrini nasıl etkiler?",
+        "answer": "Geçici Madde 7'nin yürürlüğe girmesi, mevcut davalarda yeni hükümlerin uygulanmasını gerektirir.",
+        "question_type": "Causal",
+        "source": "İYUK Geçici Madde 7",
+        "source_article": "Geçici Madde 7 – (Ek: 11/4/2013-6459/5 md.) 1. Bu "
+      },
+      {
+        "question": "Geçici Madde 7'ye göre yürürlük tarihinden önce hangi tür davalar etkilenir?",
+        "answer": "Geçici Madde 7, yürürlük tarihinden önce derdest olan tüm davaları etkilemektedir.",
+        "question_type": "Listing",
+        "source": "İYUK Geçici Madde 7",
+        "source_article": "Geçici Madde 7 – (Ek: 11/4/2013-6459/5 md.) 1. Bu "
+      },
+      {
+        "question": "Geçici Madde 8'in ne zaman yürürlüğe girdiği belirtilmiştir?",
+        "answer": "Geçici Madde 8, 18/6/2014 tarihinde yürürlüğe girmiştir.",
+        "question_type": "Factual",
+        "source": "İYUK Geçici Madde 8",
+        "source_article": "Geçici Madde 8 – (Ek: 18/6/2014-6545/27 md.) 1. İv"
+      },
+      {
+        "question": "Geçici Madde 8, yeni düzenlemelerin hangi tarihten sonra geçerli olduğunu tanımlar?",
+        "answer": "Yeni düzenlemeler, bölge idare mahkemelerinin görevine başlayacağı tarihten sonraki verilen kararlar için geçerlidir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Geçici Madde 8",
+        "source_article": "Geçici Madde 8 – (Ek: 18/6/2014-6545/27 md.) 1. İv"
+      },
+      {
+        "question": "Bölge idare mahkemelerinin faaliyete geçmesi hangi durumları etkiler?",
+        "answer": "Bölge idare mahkemelerinin faaliyete geçmesi, idare ve vergi mahkemeleri kararlarına yapılan itirazlarda yeni düzenlemelerin uygulanmasını sağlar.",
+        "question_type": "Contextual",
+        "source": "İYUK Geçici Madde 8",
+        "source_article": "Geçici Madde 8 – (Ek: 18/6/2014-6545/27 md.) 1. İv"
+      },
+      {
+        "question": "Yeni düzenlemeler, temyiz talebinin reddedilme sürecini nasıl etkiler?",
+        "answer": "Yeni düzenlemelere göre, temyiz talebi reddedilen kararlara karşı on beş gün içinde yeniden başvuru yapılabilir.",
+        "question_type": "Causal",
+        "source": "İYUK Geçici Madde 8",
+        "source_article": "Geçici Madde 8 – (Ek: 18/6/2014-6545/27 md.) 1. İv"
+      },
+      {
+        "question": "Temyiz talep sürecinin zamanlaması açısından hangi tarihlere dikkat edilmelidir?",
+        "answer": "Temyiz talep süreci, kararın verildiği tarih, bu fıkrayı ihdas eden Kanunun yayımı tarihi ve kararın tebliğ tarihi açısından değerlendirilmelidir.",
+        "question_type": "Procedural",
+        "source": "İYUK Geçici Madde 8",
+        "source_article": "Geçici Madde 8 – (Ek: 18/6/2014-6545/27 md.) 1. İv"
+      },
+      {
+        "question": "Geçici Madde 9'un yürürlüğe girdiği tarih nedir?",
+        "answer": "Geçici Madde 9, 21/3/2018 tarihinde yürürlüğe girmiştir.",
+        "question_type": "Factual",
+        "source": "İYUK Geçici Madde 9",
+        "source_article": "Geçici Madde 9 – (Ek: 21/3/2018-7103/23 md.) Bu ma"
+      },
+      {
+        "question": "Askeri Yüksek İdare Mahkemesi'nin tarafsız olmadığı iddiası hangi uluslararası mahkemeye başvuruda bulunulmasına yol açtı?",
+        "answer": "Askeri Yüksek İdare Mahkemesi'nin tarafsız olmadığı iddiası, Avrupa İnsan Hakları Mahkemesi'ne başvuruda bulunulmasına yol açtı.",
+        "question_type": "Conceptual",
+        "source": "İYUK Geçici Madde 9",
+        "source_article": "Geçici Madde 9 – (Ek: 21/3/2018-7103/23 md.) Bu ma"
+      },
+      {
+        "question": "Yargılamanın yenilenmesi için başvuru süresi ne kadardır?",
+        "answer": "Yargılamanın yenilenmesi için başvuru süresi, maddenin yürürlüğe girdiği tarihten itibaren üç aydır.",
+        "question_type": "Procedural",
+        "source": "İYUK Geçici Madde 9",
+        "source_article": "Geçici Madde 9 – (Ek: 21/3/2018-7103/23 md.) Bu ma"
+      },
+      {
+        "question": "Üç ay içinde istemde bulunmayanlar ne tür bir karar alabilirler?",
+        "answer": "Üç ay içinde istemde bulunmayanlar, Avrupa İnsan Hakları Mahkemesi tarafından iç hukuk yollarının tüketilmediği gerekçesiyle verilen kabul edilemezlik kararı alabilirler.",
+        "question_type": "Causal",
+        "source": "İYUK Geçici Madde 9",
+        "source_article": "Geçici Madde 9 – (Ek: 21/3/2018-7103/23 md.) Bu ma"
+      },
+      {
+        "question": "Bu maddeye göre süresinde başvurunun yapılması halinde ne olur?",
+        "answer": "Süresinde başvurunun yapılması halinde, yargılama yeniden yapılarak karar verilmesi süreci başlatılır.",
+        "question_type": "Analytical",
+        "source": "İYUK Geçici Madde 9",
+        "source_article": "Geçici Madde 9 – (Ek: 21/3/2018-7103/23 md.) Bu ma"
+      },
+      {
+        "question": "Geçici Madde 10'un yürürlük tarihi nedir?",
+        "answer": "Geçici Madde 10, 8/7/2021 tarihinde yürürlüğe girmiştir.",
+        "question_type": "Factual",
+        "source": "İYUK Geçici Madde 10",
+        "source_article": "Geçici Madde 10 – (Ek:8/7/2021-7331/5 md.) 1. Bu m"
+      },
+      {
+        "question": "Geçici Madde 10, idareye yapılan başvurularla ilgili ne tür bir düzenleme içermektedir?",
+        "answer": "Geçici Madde 10, önceden yapılan başvuruların eski düzenlemelere göre değerlendirilmesini sağlamaktadır.",
+        "question_type": "Conceptual",
+        "source": "İYUK Geçici Madde 10",
+        "source_article": "Geçici Madde 10 – (Ek:8/7/2021-7331/5 md.) 1. Bu m"
+      },
+      {
+        "question": "Geçici Madde 10 neden önemlidir?",
+        "answer": "Geçici Madde 10, başvuru tarihinde geçerli olan yasaların uygulamasını garanti ederek hukuk güvenliğini sağlamaktadır.",
+        "question_type": "Contextual",
+        "source": "İYUK Geçici Madde 10",
+        "source_article": "Geçici Madde 10 – (Ek:8/7/2021-7331/5 md.) 1. Bu m"
+      },
+      {
+        "question": "Geçici Madde 10'un etkisi, önceki başvuruların nasıl değerlendirileceği üzerindedir?",
+        "answer": "Bu madde, önceki başvuruların, kanunda yapılan değişikliklerden önceki süreler açısından değerlendirilmesi gerektiğini belirtmektedir.",
+        "question_type": "Causal",
+        "source": "İYUK Geçici Madde 10",
+        "source_article": "Geçici Madde 10 – (Ek:8/7/2021-7331/5 md.) 1. Bu m"
+      },
+      {
+        "question": "Geçici Madde 10, hangi maddeler arasındaki ilişkileri düzenlemektedir?",
+        "answer": "Geçici Madde 10, 10, 11 ve 13 üncü maddeler arasındaki ilişkileri düzenlemektedir.",
+        "question_type": "Listing",
+        "source": "İYUK Geçici Madde 10",
+        "source_article": "Geçici Madde 10 – (Ek:8/7/2021-7331/5 md.) 1. Bu m"
+      },
+      {
+        "question": "Geçici Madde 11'in geçerli olduğu tarih nedir?",
+        "answer": "Geçici Madde 11, 7/11/2023 tarihinde eklenmiştir.",
+        "question_type": "Factual",
+        "source": "İYUK Geçici Madde 11",
+        "source_article": "Geçici Madde 11- (Ek:7/11/2023-7471/2 md.) 1. 6/2/"
+      },
+      {
+        "question": "Geçici Madde 11'de belirtilen savunma verme süresi ne kadardır?",
+        "answer": "Savunma verme süresi, dava dilekçesinin tebliğinden itibaren on beş gündür ve bir defaya mahsus olmak üzere en fazla on gün uzatılabilir.",
+        "question_type": "Conceptual",
+        "source": "İYUK Geçici Madde 11",
+        "source_article": "Geçici Madde 11- (Ek:7/11/2023-7471/2 md.) 1. 6/2/"
+      },
+      {
+        "question": "Geçici Madde 11'e göre hangi durumlarda keşif yapılması zorunludur?",
+        "answer": "Keşif ve bilirkişi incelemesi, dosyanın tekemmülünden itibaren on beş gün içinde, tarafların hak ve menfaatlerinin korunması açısından zorunlu olduğu hallerde yapılır.",
+        "question_type": "Contextual",
+        "source": "İYUK Geçici Madde 11",
+        "source_article": "Geçici Madde 11- (Ek:7/11/2023-7471/2 md.) 1. 6/2/"
+      },
+      {
+        "question": "Bu maddede belirtilen süreleri aşan durumlarda ne yapılması gerekmektedir?",
+        "answer": "Bu maddede süre öngörülmeyen hallerde her türlü iş ve işlemler ivedilikle sonuçlandırılmalıdır.",
+        "question_type": "Procedural",
+        "source": "İYUK Geçici Madde 11",
+        "source_article": "Geçici Madde 11- (Ek:7/11/2023-7471/2 md.) 1. 6/2/"
+      },
+      {
+        "question": "İstinaf davaları hakkında verilen nihai kararlara itiraz süresi nedir?",
+        "answer": "Nihai kararlara karşı tebliğ tarihinden itibaren on beş gün içinde istinaf yoluna başvurulabilir.",
+        "question_type": "Summarizing",
+        "source": "İYUK Geçici Madde 11",
+        "source_article": "Geçici Madde 11- (Ek:7/11/2023-7471/2 md.) 1. 6/2/"
+      }
+    ]
+  }
+]
