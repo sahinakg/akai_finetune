@@ -1,0 +1,19 @@
+# Hassas dosyalar
+env.txt
+*.env
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ara veri dosyaları (seed .py'den üretilir, push gerekmez)
+seeds/*.json
+akai_data/pairs.jsonl
+akai_data/raw/
+
+# Eğitim çıktısı (büyük dosyalar)
+akai_adapter/
+*.bin
+*.safetensors
