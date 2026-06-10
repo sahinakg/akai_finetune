@@ -29,8 +29,8 @@ TARGET_MODULES = ["q_proj", "k_proj", "v_proj", "o_proj",
                   "gate_proj", "up_proj", "down_proj"]
 
 MAX_SEQ_LEN  = 2048
-BATCH_SIZE   = 2          # 24 GB GPU için güvenli
-GRAD_ACCUM   = 4          # efektif batch = 8
+BATCH_SIZE   = 4          # 32 GB GPU (RTX 5090) için
+GRAD_ACCUM   = 2          # efektif batch = 8
 EPOCHS       = 3
 LR           = 2e-4
 # ───────────────────────────────────────────────────────────────────────────
